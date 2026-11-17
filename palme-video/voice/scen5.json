@@ -1,0 +1,93 @@
+{
+ "text": "Det blir den största polisutredningen i svensk historia. Spår efter spår följs upp, men länge utan resultat.",
+ "language": "sv",
+ "duration": 7.0791383219954644,
+ "words": [
+  {
+   "text": "Det",
+   "start_time": 0.299,
+   "end_time": 0.4267
+  },
+  {
+   "text": "blir",
+   "start_time": 0.469,
+   "end_time": 0.597
+  },
+  {
+   "text": "den",
+   "start_time": 0.64,
+   "end_time": 0.6827
+  },
+  {
+   "text": "största",
+   "start_time": 0.725,
+   "end_time": 1.237
+  },
+  {
+   "text": "polisutredningen",
+   "start_time": 1.28,
+   "end_time": 2.176
+  },
+  {
+   "text": "i",
+   "start_time": 2.219,
+   "end_time": 2.261
+  },
+  {
+   "text": "svensk",
+   "start_time": 2.304,
+   "end_time": 2.6027
+  },
+  {
+   "text": "historia",
+   "start_time": 2.645,
+   "end_time": 3.072
+  },
+  {
+   "text": "Spår",
+   "start_time": 3.627,
+   "end_time": 4.011
+  },
+  {
+   "text": "efter",
+   "start_time": 4.053,
+   "end_time": 4.224
+  },
+  {
+   "text": "spår",
+   "start_time": 4.267,
+   "end_time": 4.565
+  },
+  {
+   "text": "följs",
+   "start_time": 4.608,
+   "end_time": 4.9067
+  },
+  {
+   "text": "upp",
+   "start_time": 4.949,
+   "end_time": 5.077
+  },
+  {
+   "text": "men",
+   "start_time": 5.504,
+   "end_time": 5.632
+  },
+  {
+   "text": "länge",
+   "start_time": 5.675,
+   "end_time": 5.973
+  },
+  {
+   "text": "utan",
+   "start_time": 6.016,
+   "end_time": 6.229
+  },
+  {
+   "text": "resultat",
+   "start_time": 6.315,
+   "end_time": 6.699
+  }
+ ],
+ "request": "heygen-voice-1-turbo-free / Wade a3a4aa242aaf431ea8ec2c4b3bb332fa"
+}

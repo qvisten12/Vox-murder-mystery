@@ -1,0 +1,158 @@
+{
+ "text": "Klockan 23.21, vid hörnet av Tunnelgatan, kliver en man fram bakom dem. Två skott ekar mellan husen. Olof Palme faller till marken. Lisbet träffas av den andra kulan, men överlever.",
+ "language": "sv",
+ "duration": 12.315238095238096,
+ "words": [
+  {
+   "text": "Klockan",
+   "start_time": 0.256,
+   "end_time": 0.597
+  },
+  {
+   "text": "23.21",
+   "start_time": 0.64,
+   "end_time": 1.536
+  },
+  {
+   "text": "vid",
+   "start_time": 1.835,
+   "end_time": 2.005
+  },
+  {
+   "text": "hörnet",
+   "start_time": 2.048,
+   "end_time": 2.3467
+  },
+  {
+   "text": "av",
+   "start_time": 2.389,
+   "end_time": 2.4747
+  },
+  {
+   "text": "Tunnelgatan",
+   "start_time": 2.517,
+   "end_time": 3.157
+  },
+  {
+   "text": "kliver",
+   "start_time": 3.627,
+   "end_time": 3.883
+  },
+  {
+   "text": "en",
+   "start_time": 3.925,
+   "end_time": 4.0107
+  },
+  {
+   "text": "man",
+   "start_time": 4.053,
+   "end_time": 4.181
+  },
+  {
+   "text": "fram",
+   "start_time": 4.309,
+   "end_time": 4.5227
+  },
+  {
+   "text": "bakom",
+   "start_time": 4.608,
+   "end_time": 4.864
+  },
+  {
+   "text": "dem",
+   "start_time": 4.949,
+   "end_time": 5.077
+  },
+  {
+   "text": "Två",
+   "start_time": 5.504,
+   "end_time": 5.717
+  },
+  {
+   "text": "skott",
+   "start_time": 5.76,
+   "end_time": 6.016
+  },
+  {
+   "text": "ekar",
+   "start_time": 6.101,
+   "end_time": 6.4427
+  },
+  {
+   "text": "mellan",
+   "start_time": 6.485,
+   "end_time": 6.656
+  },
+  {
+   "text": "husen",
+   "start_time": 6.699,
+   "end_time": 6.997
+  },
+  {
+   "text": "Olof",
+   "start_time": 7.296,
+   "end_time": 7.7227
+  },
+  {
+   "text": "Palme",
+   "start_time": 7.808,
+   "end_time": 8.149
+  },
+  {
+   "text": "faller",
+   "start_time": 8.192,
+   "end_time": 8.4907
+  },
+  {
+   "text": "till",
+   "start_time": 8.533,
+   "end_time": 8.6187
+  },
+  {
+   "text": "marken",
+   "start_time": 8.661,
+   "end_time": 9.003
+  },
+  {
+   "text": "Lisbet",
+   "start_time": 9.344,
+   "end_time": 9.728
+  },
+  {
+   "text": "träffas",
+   "start_time": 9.813,
+   "end_time": 10.112
+  },
+  {
+   "text": "av",
+   "start_time": 10.197,
+   "end_time": 10.24
+  },
+  {
+   "text": "den",
+   "start_time": 10.283,
+   "end_time": 10.368
+  },
+  {
+   "text": "andra",
+   "start_time": 10.411,
+   "end_time": 10.6667
+  },
+  {
+   "text": "kulan",
+   "start_time": 10.709,
+   "end_time": 11.051
+  },
+  {
+   "text": "men",
+   "start_time": 11.349,
+   "end_time": 11.4347
+  },
+  {
+   "text": "överlever",
+   "start_time": 11.477,
+   "end_time": 12.032
+  }
+ ],
+ "request": "heygen-voice-1-turbo-free / Wade a3a4aa242aaf431ea8ec2c4b3bb332fa"
+}

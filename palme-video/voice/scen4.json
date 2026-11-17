@@ -1,0 +1,93 @@
+{
+ "text": "Gärningsmannen springer upp för de långa trapporna mot Malmskillnadsgatan och försvinner in i mörkret. Vapnet hittas aldrig.",
+ "language": "sv",
+ "duration": 7.636417233560091,
+ "words": [
+  {
+   "text": "Gärningsmannen",
+   "start_time": 0.299,
+   "end_time": 1.024
+  },
+  {
+   "text": "springer",
+   "start_time": 1.067,
+   "end_time": 1.408
+  },
+  {
+   "text": "upp",
+   "start_time": 1.451,
+   "end_time": 1.579
+  },
+  {
+   "text": "för",
+   "start_time": 1.621,
+   "end_time": 1.749
+  },
+  {
+   "text": "de",
+   "start_time": 1.792,
+   "end_time": 1.8347
+  },
+  {
+   "text": "långa",
+   "start_time": 1.877,
+   "end_time": 2.176
+  },
+  {
+   "text": "trapporna",
+   "start_time": 2.219,
+   "end_time": 2.645
+  },
+  {
+   "text": "mot",
+   "start_time": 2.731,
+   "end_time": 2.816
+  },
+  {
+   "text": "Malmskillnadsgatan",
+   "start_time": 2.901,
+   "end_time": 3.968
+  },
+  {
+   "text": "och",
+   "start_time": 4.053,
+   "end_time": 4.181
+  },
+  {
+   "text": "försvinner",
+   "start_time": 4.224,
+   "end_time": 4.6507
+  },
+  {
+   "text": "in",
+   "start_time": 4.693,
+   "end_time": 4.779
+  },
+  {
+   "text": "i",
+   "start_time": 4.821,
+   "end_time": 4.864
+  },
+  {
+   "text": "mörkret",
+   "start_time": 4.907,
+   "end_time": 5.291
+  },
+  {
+   "text": "Vapnet",
+   "start_time": 5.973,
+   "end_time": 6.4427
+  },
+  {
+   "text": "hittas",
+   "start_time": 6.528,
+   "end_time": 6.869
+  },
+  {
+   "text": "aldrig",
+   "start_time": 6.955,
+   "end_time": 7.424
+  }
+ ],
+ "request": "heygen-voice-1-turbo-free / Wade a3a4aa242aaf431ea8ec2c4b3bb332fa"
+}

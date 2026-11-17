@@ -1,0 +1,93 @@
+{
+ "text": "De har just sett en film på biografen Grand. Det är kallt, och gatorna är nästan tomma.",
+ "language": "sv",
+ "duration": 5.593061224489796,
+ "words": [
+  {
+   "text": "De",
+   "start_time": 0.299,
+   "end_time": 0.4267
+  },
+  {
+   "text": "har",
+   "start_time": 0.469,
+   "end_time": 0.555
+  },
+  {
+   "text": "just",
+   "start_time": 0.597,
+   "end_time": 0.64
+  },
+  {
+   "text": "sett",
+   "start_time": 0.725,
+   "end_time": 0.853
+  },
+  {
+   "text": "en",
+   "start_time": 0.896,
+   "end_time": 0.981
+  },
+  {
+   "text": "film",
+   "start_time": 1.024,
+   "end_time": 1.28
+  },
+  {
+   "text": "på",
+   "start_time": 1.451,
+   "end_time": 1.536
+  },
+  {
+   "text": "biografen",
+   "start_time": 1.579,
+   "end_time": 2.0907
+  },
+  {
+   "text": "Grand",
+   "start_time": 2.176,
+   "end_time": 2.347
+  },
+  {
+   "text": "Det",
+   "start_time": 2.816,
+   "end_time": 2.901
+  },
+  {
+   "text": "är",
+   "start_time": 2.944,
+   "end_time": 3.029
+  },
+  {
+   "text": "kallt",
+   "start_time": 3.072,
+   "end_time": 3.499
+  },
+  {
+   "text": "och",
+   "start_time": 3.84,
+   "end_time": 4.053
+  },
+  {
+   "text": "gatorna",
+   "start_time": 4.096,
+   "end_time": 4.437
+  },
+  {
+   "text": "är",
+   "start_time": 4.523,
+   "end_time": 4.608
+  },
+  {
+   "text": "nästan",
+   "start_time": 4.651,
+   "end_time": 4.9067
+  },
+  {
+   "text": "tomma",
+   "start_time": 4.949,
+   "end_time": 5.248
+  }
+ ],
+ "request": "heygen-voice-1-turbo-free / Wade a3a4aa242aaf431ea8ec2c4b3bb332fa"
+}

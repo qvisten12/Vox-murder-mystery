@@ -1,0 +1,88 @@
+{
+ "text": "År 1989 döms Christer Pettersson för mordet. Samma år frikänns han av hovrätten. Bevisen räcker inte.",
+ "language": "sv",
+ "duration": 7.891836734693878,
+ "words": [
+  {
+   "text": "År",
+   "start_time": 0.256,
+   "end_time": 0.512
+  },
+  {
+   "text": "1989",
+   "start_time": 0.555,
+   "end_time": 1.4507
+  },
+  {
+   "text": "döms",
+   "start_time": 1.707,
+   "end_time": 1.9627
+  },
+  {
+   "text": "Christer",
+   "start_time": 2.091,
+   "end_time": 2.432
+  },
+  {
+   "text": "Pettersson",
+   "start_time": 2.475,
+   "end_time": 2.901
+  },
+  {
+   "text": "för",
+   "start_time": 2.944,
+   "end_time": 3.072
+  },
+  {
+   "text": "mordet",
+   "start_time": 3.115,
+   "end_time": 3.371
+  },
+  {
+   "text": "Samma",
+   "start_time": 3.925,
+   "end_time": 4.2667
+  },
+  {
+   "text": "år",
+   "start_time": 4.309,
+   "end_time": 4.565
+  },
+  {
+   "text": "frikänns",
+   "start_time": 4.608,
+   "end_time": 5.077
+  },
+  {
+   "text": "han",
+   "start_time": 5.12,
+   "end_time": 5.205
+  },
+  {
+   "text": "av",
+   "start_time": 5.248,
+   "end_time": 5.333
+  },
+  {
+   "text": "hovrätten",
+   "start_time": 5.376,
+   "end_time": 5.931
+  },
+  {
+   "text": "Bevisen",
+   "start_time": 6.485,
+   "end_time": 6.9547
+  },
+  {
+   "text": "räcker",
+   "start_time": 6.997,
+   "end_time": 7.296
+  },
+  {
+   "text": "inte",
+   "start_time": 7.339,
+   "end_time": 7.467
+  }
+ ],
+ "request": "heygen-voice-1-turbo-free / Wade a3a4aa242aaf431ea8ec2c4b3bb332fa"
+}
