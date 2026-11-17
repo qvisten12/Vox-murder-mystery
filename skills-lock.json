@@ -1,6 +1,13 @@
 {
   "version": 2,
   "skills": {
+    "directing-stickman-videos": {
+      "source": "kaomei/stickman-video-director",
+      "commit": "d58cf5b1d83996bc961694f046335454de599770",
+      "sourceType": "github",
+      "skillPath": "skills/directing-stickman-videos/SKILL.md",
+      "computedHash": "2c76b25b03588285155b67eda4f8f5efbe2f333d3569f2c70166e57c0a23a429"
+    },
     "hyperframes": {
       "source": "heygen-com/hyperframes",
       "commit": "f91bbf0dac486f85de195621092014c02bf0a6a5",
