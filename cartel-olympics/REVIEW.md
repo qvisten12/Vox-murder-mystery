@@ -4,7 +4,7 @@
 - Built storyline **A: The Evidence Board**: a single 3 x 3 cardboard board, filmed in one continuous take. Act one pins up Mau Morales's legend. Act two stamps each claim and pins the record over it. The film ends on a pull-back to the whole board, then a push-in to the movie clapperboard.
 - Not built: **B: One Date, Two Stories** and **C: The Trailer That Never Was** (see STORYLINES.md).
 - Narration uses Kokoro `am_michael`, generated locally for free. Captions are burned in, 4 to 6 words per group, timed to whisper word timings.
-- **No music.** HeyGen isn't signed in, so the catalog is unavailable (sound.md §3). The film has narration and sound effects only.
+- Music: two HeyGen catalog tracks at 0.14 volume under the narration. The first ("Vox-style investigative documentary") runs 0-56.4 s and ends at the turn; after a beat of silence, the second ("low, rhythmic, tense investigative") runs from 57.6 s to the end.
 - Every claim is attributed: Mau's story is told as "he says", and the findings are what The Atlantic reported (RESEARCH.md). Real people appear only as text. The only faces are generic silhouettes.
 
 ## Measured vs looked at
