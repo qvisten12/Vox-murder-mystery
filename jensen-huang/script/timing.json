@@ -1,0 +1,1267 @@
+[
+ {
+  "id": "s01",
+  "start": 1.2,
+  "dur": 6.976,
+  "text": "These are the most wanted chips on Earth. And until last week, one man stood behind them: Nvidia's Jensen Huang.",
+  "words": [
+   {
+    "text": "These",
+    "s": 0.07,
+    "e": 0.34
+   },
+   {
+    "text": "are",
+    "s": 0.34,
+    "e": 0.54
+   },
+   {
+    "text": "the",
+    "s": 0.54,
+    "e": 0.74
+   },
+   {
+    "text": "most",
+    "s": 0.74,
+    "e": 1.01
+   },
+   {
+    "text": "wanted",
+    "s": 1.01,
+    "e": 1.4
+   },
+   {
+    "text": "ships",
+    "s": 1.41,
+    "e": 1.75
+   },
+   {
+    "text": "on",
+    "s": 1.75,
+    "e": 1.8
+   },
+   {
+    "text": "Earth.",
+    "s": 2.3,
+    "e": 2.32
+   },
+   {
+    "text": "And",
+    "s": 2.38,
+    "e": 2.52
+   },
+   {
+    "text": "until",
+    "s": 2.52,
+    "e": 2.85
+   },
+   {
+    "text": "last",
+    "s": 2.85,
+    "e": 3.11
+   },
+   {
+    "text": "week,",
+    "s": 3.11,
+    "e": 3.52
+   },
+   {
+    "text": "one",
+    "s": 3.52,
+    "e": 3.72
+   },
+   {
+    "text": "man",
+    "s": 3.73,
+    "e": 3.94
+   },
+   {
+    "text": "stood",
+    "s": 3.94,
+    "e": 4.11
+   },
+   {
+    "text": "behind",
+    "s": 4.67,
+    "e": 4.91
+   },
+   {
+    "text": "them,",
+    "s": 4.93,
+    "e": 5.32
+   },
+   {
+    "text": "NVIDIA's",
+    "s": 5.39,
+    "e": 5.95
+   },
+   {
+    "text": "Jensen",
+    "s": 5.95,
+    "e": 6.38
+   },
+   {
+    "text": "Huang.",
+    "s": 6.43,
+    "e": 7.07
+   }
+  ]
+ },
+ {
+  "id": "s02",
+  "start": 8.776,
+  "dur": 7.509,
+  "text": "The AI boom runs on Nvidia's chips. By early November, the company was worth about four and a half trillion dollars.",
+  "words": [
+   {
+    "text": "The",
+    "s": 0.05,
+    "e": 0.34
+   },
+   {
+    "text": "AI",
+    "s": 0.34,
+    "e": 0.56
+   },
+   {
+    "text": "boom",
+    "s": 0.56,
+    "e": 1.01
+   },
+   {
+    "text": "runs",
+    "s": 1.1,
+    "e": 1.46
+   },
+   {
+    "text": "on",
+    "s": 1.46,
+    "e": 1.68
+   },
+   {
+    "text": "Nvidia's",
+    "s": 1.68,
+    "e": 2.58
+   },
+   {
+    "text": "chips.",
+    "s": 2.58,
+    "e": 3.18
+   },
+   {
+    "text": "By",
+    "s": 3.23,
+    "e": 3.29
+   },
+   {
+    "text": "early",
+    "s": 3.37,
+    "e": 3.68
+   },
+   {
+    "text": "November,",
+    "s": 3.68,
+    "e": 4.42
+   },
+   {
+    "text": "the",
+    "s": 4.42,
+    "e": 4.56
+   },
+   {
+    "text": "company",
+    "s": 4.61,
+    "e": 4.98
+   },
+   {
+    "text": "was",
+    "s": 4.98,
+    "e": 5.16
+   },
+   {
+    "text": "worth",
+    "s": 5.16,
+    "e": 5.46
+   },
+   {
+    "text": "about",
+    "s": 5.46,
+    "e": 5.74
+   },
+   {
+    "text": "$4.5",
+    "s": 5.74,
+    "e": 6.51
+   },
+   {
+    "text": "trillion.",
+    "s": 6.56,
+    "e": 7.3
+   }
+  ]
+ },
+ {
+  "id": "s03",
+  "start": 16.885,
+  "dur": 8.427,
+  "text": "That makes the chips political. Washington decides which ones China can buy. Last December, it let Nvidia sell a far stronger one.",
+  "words": [
+   {
+    "text": "That",
+    "s": 0.06,
+    "e": 0.25
+   },
+   {
+    "text": "makes",
+    "s": 0.25,
+    "e": 0.53
+   },
+   {
+    "text": "the",
+    "s": 0.58,
+    "e": 0.73
+   },
+   {
+    "text": "chips",
+    "s": 0.79,
+    "e": 1.05
+   },
+   {
+    "text": "political.",
+    "s": 1.05,
+    "e": 1.82
+   },
+   {
+    "text": "Washington",
+    "s": 1.88,
+    "e": 2.55
+   },
+   {
+    "text": "decides",
+    "s": 2.61,
+    "e": 3.11
+   },
+   {
+    "text": "which",
+    "s": 3.13,
+    "e": 3.2
+   },
+   {
+    "text": "ones",
+    "s": 3.68,
+    "e": 3.83
+   },
+   {
+    "text": "China",
+    "s": 3.83,
+    "e": 4.22
+   },
+   {
+    "text": "can",
+    "s": 4.22,
+    "e": 4.44
+   },
+   {
+    "text": "buy.",
+    "s": 4.54,
+    "e": 4.94
+   },
+   {
+    "text": "Last",
+    "s": 5,
+    "e": 5.25
+   },
+   {
+    "text": "December,",
+    "s": 5.25,
+    "e": 6.04
+   },
+   {
+    "text": "it",
+    "s": 6.04,
+    "e": 6.15
+   },
+   {
+    "text": "let",
+    "s": 6.17,
+    "e": 6.32
+   },
+   {
+    "text": "Nvidia",
+    "s": 6.32,
+    "e": 6.8
+   },
+   {
+    "text": "sell",
+    "s": 6.8,
+    "e": 7.05
+   },
+   {
+    "text": "a",
+    "s": 7.05,
+    "e": 7.09
+   },
+   {
+    "text": "far",
+    "s": 7.11,
+    "e": 7.31
+   },
+   {
+    "text": "stronger",
+    "s": 7.31,
+    "e": 7.86
+   },
+   {
+    "text": "one.",
+    "s": 7.86,
+    "e": 8.32
+   }
+  ]
+ },
+ {
+  "id": "s04",
+  "start": 26.812,
+  "dur": 9.216,
+  "text": "Then The New York Times reported that U.S. officials believe Alice Huang, a businesswoman close to Jensen, is a Chinese intelligence asset.",
+  "words": [
+   {
+    "text": "Then",
+    "s": 0.06,
+    "e": 0.32
+   },
+   {
+    "text": "the",
+    "s": 0.32,
+    "e": 0.56
+   },
+   {
+    "text": "New",
+    "s": 0.56,
+    "e": 0.75
+   },
+   {
+    "text": "York",
+    "s": 0.8,
+    "e": 1.12
+   },
+   {
+    "text": "Times",
+    "s": 1.12,
+    "e": 1.52
+   },
+   {
+    "text": "reported",
+    "s": 1.52,
+    "e": 2.13
+   },
+   {
+    "text": "that",
+    "s": 2.29,
+    "e": 2.45
+   },
+   {
+    "text": "U.S.",
+    "s": 2.48,
+    "e": 3.14
+   },
+   {
+    "text": "Officials",
+    "s": 3.2,
+    "e": 3.75
+   },
+   {
+    "text": "believe",
+    "s": 3.89,
+    "e": 4.29
+   },
+   {
+    "text": "Alice",
+    "s": 4.31,
+    "e": 4.67
+   },
+   {
+    "text": "Huang,",
+    "s": 4.67,
+    "e": 5.2
+   },
+   {
+    "text": "a",
+    "s": 5.2,
+    "e": 5.23
+   },
+   {
+    "text": "businesswoman",
+    "s": 5.25,
+    "e": 5.79
+   },
+   {
+    "text": "close",
+    "s": 5.79,
+    "e": 6.31
+   },
+   {
+    "text": "to",
+    "s": 6.31,
+    "e": 6.52
+   },
+   {
+    "text": "Jensen,",
+    "s": 6.52,
+    "e": 7.28
+   },
+   {
+    "text": "is",
+    "s": 7.34,
+    "e": 7.4
+   },
+   {
+    "text": "a",
+    "s": 7.4,
+    "e": 7.46
+   },
+   {
+    "text": "Chinese",
+    "s": 7.46,
+    "e": 7.89
+   },
+   {
+    "text": "intelligence",
+    "s": 7.89,
+    "e": 8.62
+   },
+   {
+    "text": "asset.",
+    "s": 8.69,
+    "e": 9.14
+   }
+  ]
+ },
+ {
+  "id": "s05",
+  "start": 36.628,
+  "dur": 7.424,
+  "text": "She's no relation. No proof has been made public, and China calls it a smear. But one question stuck: how close were they?",
+  "words": [
+   {
+    "text": "She's",
+    "s": 0.09,
+    "e": 0.43
+   },
+   {
+    "text": "no",
+    "s": 0.43,
+    "e": 0.6
+   },
+   {
+    "text": "relation,",
+    "s": 0.6,
+    "e": 1.48
+   },
+   {
+    "text": "no",
+    "s": 1.54,
+    "e": 1.62
+   },
+   {
+    "text": "proof",
+    "s": 1.62,
+    "e": 1.96
+   },
+   {
+    "text": "has",
+    "s": 1.96,
+    "e": 2.16
+   },
+   {
+    "text": "been",
+    "s": 2.19,
+    "e": 2.45
+   },
+   {
+    "text": "made",
+    "s": 2.45,
+    "e": 2.68
+   },
+   {
+    "text": "public,",
+    "s": 2.73,
+    "e": 3.22
+   },
+   {
+    "text": "and",
+    "s": 3.22,
+    "e": 3.32
+   },
+   {
+    "text": "China",
+    "s": 3.32,
+    "e": 3.66
+   },
+   {
+    "text": "calls",
+    "s": 3.72,
+    "e": 4.14
+   },
+   {
+    "text": "it",
+    "s": 4.21,
+    "e": 4.4
+   },
+   {
+    "text": "a",
+    "s": 4.4,
+    "e": 4.49
+   },
+   {
+    "text": "smear.",
+    "s": 4.5,
+    "e": 5.08
+   },
+   {
+    "text": "But",
+    "s": 5.13,
+    "e": 5.24
+   },
+   {
+    "text": "one",
+    "s": 5.24,
+    "e": 5.4
+   },
+   {
+    "text": "question",
+    "s": 5.4,
+    "e": 5.84
+   },
+   {
+    "text": "stuck,",
+    "s": 5.84,
+    "e": 6.23
+   },
+   {
+    "text": "how",
+    "s": 6.23,
+    "e": 6.24
+   },
+   {
+    "text": "close",
+    "s": 6.61,
+    "e": 6.67
+   },
+   {
+    "text": "were",
+    "s": 6.67,
+    "e": 6.81
+   },
+   {
+    "text": "they?",
+    "s": 6.9,
+    "e": 7.27
+   }
+  ]
+ },
+ {
+  "id": "s06",
+  "start": 45.252,
+  "dur": 7.979,
+  "text": "On November eighth, Huang answered in a letter to his staff. I was unfaithful to my wife, he wrote. There is no excuse for what I did.",
+  "words": [
+   {
+    "text": "On",
+    "s": 0.03,
+    "e": 0.12
+   },
+   {
+    "text": "November",
+    "s": 0.12,
+    "e": 0.59
+   },
+   {
+    "text": "8th,",
+    "s": 0.6,
+    "e": 0.96
+   },
+   {
+    "text": "Huang",
+    "s": 1.18,
+    "e": 1.32
+   },
+   {
+    "text": "answered",
+    "s": 1.32,
+    "e": 1.8
+   },
+   {
+    "text": "in",
+    "s": 1.8,
+    "e": 1.91
+   },
+   {
+    "text": "a",
+    "s": 1.93,
+    "e": 1.98
+   },
+   {
+    "text": "letter",
+    "s": 1.98,
+    "e": 2.35
+   },
+   {
+    "text": "to",
+    "s": 2.35,
+    "e": 2.61
+   },
+   {
+    "text": "his",
+    "s": 2.61,
+    "e": 2.98
+   },
+   {
+    "text": "staff.",
+    "s": 2.98,
+    "e": 3.64
+   },
+   {
+    "text": "I",
+    "s": 3.67,
+    "e": 3.71
+   },
+   {
+    "text": "was",
+    "s": 3.71,
+    "e": 3.93
+   },
+   {
+    "text": "unfaithful",
+    "s": 3.93,
+    "e": 4.44
+   },
+   {
+    "text": "to",
+    "s": 4.44,
+    "e": 4.83
+   },
+   {
+    "text": "my",
+    "s": 4.83,
+    "e": 4.94
+   },
+   {
+    "text": "wife,",
+    "s": 4.94,
+    "e": 5.36
+   },
+   {
+    "text": "he",
+    "s": 5.37,
+    "e": 5.51
+   },
+   {
+    "text": "wrote,",
+    "s": 5.54,
+    "e": 6.07
+   },
+   {
+    "text": "there",
+    "s": 6.11,
+    "e": 6.37
+   },
+   {
+    "text": "is",
+    "s": 6.42,
+    "e": 6.51
+   },
+   {
+    "text": "no",
+    "s": 6.51,
+    "e": 6.63
+   },
+   {
+    "text": "excuse",
+    "s": 6.63,
+    "e": 6.88
+   },
+   {
+    "text": "for",
+    "s": 6.88,
+    "e": 7.27
+   },
+   {
+    "text": "what",
+    "s": 7.27,
+    "e": 7.45
+   },
+   {
+    "text": "I",
+    "s": 7.45,
+    "e": 7.48
+   },
+   {
+    "text": "did.",
+    "s": 7.54,
+    "e": 7.92
+   }
+  ]
+ },
+ {
+  "id": "s07",
+  "start": 53.831,
+  "dur": 11.947,
+  "text": "The board said it saw no sign that secrets were compromised. But the threads kept pulling. Shares fell. Congress wanted answers. And new reports surfaced of relationships with Nvidia employees.",
+  "words": [
+   {
+    "text": "The",
+    "s": 0.05,
+    "e": 0.2
+   },
+   {
+    "text": "board",
+    "s": 0.2,
+    "e": 0.52
+   },
+   {
+    "text": "said",
+    "s": 0.53,
+    "e": 0.79
+   },
+   {
+    "text": "it",
+    "s": 0.79,
+    "e": 0.92
+   },
+   {
+    "text": "saw",
+    "s": 0.92,
+    "e": 1.11
+   },
+   {
+    "text": "no",
+    "s": 1.11,
+    "e": 1.25
+   },
+   {
+    "text": "sign",
+    "s": 1.25,
+    "e": 1.54
+   },
+   {
+    "text": "that",
+    "s": 1.54,
+    "e": 1.64
+   },
+   {
+    "text": "secrets",
+    "s": 1.79,
+    "e": 2.17
+   },
+   {
+    "text": "were",
+    "s": 2.22,
+    "e": 2.28
+   },
+   {
+    "text": "compromised,",
+    "s": 2.28,
+    "e": 3.52
+   },
+   {
+    "text": "but",
+    "s": 3.53,
+    "e": 3.58
+   },
+   {
+    "text": "the",
+    "s": 3.63,
+    "e": 3.7
+   },
+   {
+    "text": "threads",
+    "s": 3.79,
+    "e": 4.12
+   },
+   {
+    "text": "kept",
+    "s": 4.17,
+    "e": 4.3
+   },
+   {
+    "text": "pulling.",
+    "s": 4.39,
+    "e": 5.32
+   },
+   {
+    "text": "Shares",
+    "s": 5.37,
+    "e": 5.89
+   },
+   {
+    "text": "fell.",
+    "s": 5.89,
+    "e": 6.56
+   },
+   {
+    "text": "Congress",
+    "s": 6.61,
+    "e": 7.14
+   },
+   {
+    "text": "wanted",
+    "s": 7.14,
+    "e": 7.57
+   },
+   {
+    "text": "answers,",
+    "s": 7.57,
+    "e": 8.2
+   },
+   {
+    "text": "and",
+    "s": 8.36,
+    "e": 8.41
+   },
+   {
+    "text": "new",
+    "s": 8.41,
+    "e": 8.58
+   },
+   {
+    "text": "reports",
+    "s": 8.58,
+    "e": 8.99
+   },
+   {
+    "text": "surfaced",
+    "s": 8.99,
+    "e": 9.44
+   },
+   {
+    "text": "of",
+    "s": 9.45,
+    "e": 9.57
+   },
+   {
+    "text": "relationships",
+    "s": 9.57,
+    "e": 10.35
+   },
+   {
+    "text": "with",
+    "s": 10.36,
+    "e": 10.61
+   },
+   {
+    "text": "NVIDIA",
+    "s": 10.66,
+    "e": 10.96
+   },
+   {
+    "text": "employees.",
+    "s": 11.05,
+    "e": 11.88
+   }
+  ]
+ },
+ {
+  "id": "s08",
+  "start": 67.077,
+  "dur": 9.515,
+  "text": "Four days after his letter, Huang resigned as chief executive. The company's finance chief, Colette Kress, is now running Nvidia for the time being.",
+  "words": [
+   {
+    "text": "Four",
+    "s": 0.12,
+    "e": 0.26
+   },
+   {
+    "text": "days",
+    "s": 0.26,
+    "e": 0.52
+   },
+   {
+    "text": "after",
+    "s": 0.52,
+    "e": 0.85
+   },
+   {
+    "text": "his",
+    "s": 0.85,
+    "e": 1.05
+   },
+   {
+    "text": "letter,",
+    "s": 1.05,
+    "e": 1.6
+   },
+   {
+    "text": "Huang",
+    "s": 1.68,
+    "e": 1.94
+   },
+   {
+    "text": "resigned",
+    "s": 1.94,
+    "e": 2.5
+   },
+   {
+    "text": "as",
+    "s": 2.55,
+    "e": 2.68
+   },
+   {
+    "text": "chief",
+    "s": 2.74,
+    "e": 3.15
+   },
+   {
+    "text": "executive.",
+    "s": 3.15,
+    "e": 4.28
+   },
+   {
+    "text": "The",
+    "s": 4.4,
+    "e": 4.49
+   },
+   {
+    "text": "company's",
+    "s": 4.49,
+    "e": 5.1
+   },
+   {
+    "text": "finance",
+    "s": 5.1,
+    "e": 5.58
+   },
+   {
+    "text": "chief,",
+    "s": 5.58,
+    "e": 6.06
+   },
+   {
+    "text": "Colette",
+    "s": 6.06,
+    "e": 6.54
+   },
+   {
+    "text": "Kress,",
+    "s": 6.54,
+    "e": 7.08
+   },
+   {
+    "text": "is",
+    "s": 7.08,
+    "e": 7.21
+   },
+   {
+    "text": "now",
+    "s": 7.3,
+    "e": 7.43
+   },
+   {
+    "text": "running",
+    "s": 7.43,
+    "e": 7.93
+   },
+   {
+    "text": "NVIDIA",
+    "s": 7.93,
+    "e": 8.01
+   },
+   {
+    "text": "for",
+    "s": 8.55,
+    "e": 8.59
+   },
+   {
+    "text": "the",
+    "s": 8.63,
+    "e": 8.78
+   },
+   {
+    "text": "time",
+    "s": 8.78,
+    "e": 8.99
+   },
+   {
+    "text": "being.",
+    "s": 8.99,
+    "e": 9.44
+   }
+  ]
+ },
+ {
+  "id": "s09",
+  "start": 77.192,
+  "dur": 11.541,
+  "text": "More than a hundred and seventy thousand people have signed a letter asking for him back. The board reportedly isn't considering it. And officials still haven't said whether Alice Huang was really a spy.",
+  "words": [
+   {
+    "text": "More",
+    "s": 0.04,
+    "e": 0.31
+   },
+   {
+    "text": "than",
+    "s": 0.31,
+    "e": 0.62
+   },
+   {
+    "text": "170,000",
+    "s": 0.62,
+    "e": 2.16
+   },
+   {
+    "text": "people",
+    "s": 2.16,
+    "e": 2.41
+   },
+   {
+    "text": "have",
+    "s": 2.75,
+    "e": 2.87
+   },
+   {
+    "text": "signed",
+    "s": 2.87,
+    "e": 3.16
+   },
+   {
+    "text": "a",
+    "s": 3.16,
+    "e": 3.22
+   },
+   {
+    "text": "letter",
+    "s": 3.22,
+    "e": 3.56
+   },
+   {
+    "text": "asking",
+    "s": 3.65,
+    "e": 4.04
+   },
+   {
+    "text": "for",
+    "s": 4.04,
+    "e": 4.2
+   },
+   {
+    "text": "him",
+    "s": 4.2,
+    "e": 4.36
+   },
+   {
+    "text": "back.",
+    "s": 4.36,
+    "e": 5.32
+   },
+   {
+    "text": "The",
+    "s": 5.36,
+    "e": 5.51
+   },
+   {
+    "text": "board",
+    "s": 5.51,
+    "e": 5.77
+   },
+   {
+    "text": "reportedly",
+    "s": 5.9,
+    "e": 6.48
+   },
+   {
+    "text": "isn't",
+    "s": 6.48,
+    "e": 6.8
+   },
+   {
+    "text": "considering",
+    "s": 6.8,
+    "e": 7.48
+   },
+   {
+    "text": "it,",
+    "s": 7.56,
+    "e": 7.73
+   },
+   {
+    "text": "and",
+    "s": 7.73,
+    "e": 8.09
+   },
+   {
+    "text": "officials",
+    "s": 8.09,
+    "e": 8.41
+   },
+   {
+    "text": "still",
+    "s": 8.41,
+    "e": 8.66
+   },
+   {
+    "text": "haven't",
+    "s": 8.66,
+    "e": 9.01
+   },
+   {
+    "text": "said",
+    "s": 9.01,
+    "e": 9.24
+   },
+   {
+    "text": "whether",
+    "s": 9.24,
+    "e": 9.6
+   },
+   {
+    "text": "Alice",
+    "s": 9.64,
+    "e": 9.96
+   },
+   {
+    "text": "Huang",
+    "s": 9.96,
+    "e": 10.32
+   },
+   {
+    "text": "was",
+    "s": 10.32,
+    "e": 10.51
+   },
+   {
+    "text": "really",
+    "s": 10.55,
+    "e": 10.96
+   },
+   {
+    "text": "a",
+    "s": 10.96,
+    "e": 11.03
+   },
+   {
+    "text": "spy.",
+    "s": 11.03,
+    "e": 11.47
+   }
+  ]
+ },
+ {
+  "id": "s10",
+  "start": 90.233,
+  "dur": 6.571,
+  "text": "The chips are still the most wanted on Earth. The man who built the company around them just isn't holding them anymore.",
+  "words": [
+   {
+    "text": "The",
+    "s": 0.05,
+    "e": 0.22
+   },
+   {
+    "text": "chips",
+    "s": 0.22,
+    "e": 0.59
+   },
+   {
+    "text": "are",
+    "s": 0.59,
+    "e": 0.81
+   },
+   {
+    "text": "still",
+    "s": 0.81,
+    "e": 1.18
+   },
+   {
+    "text": "the",
+    "s": 1.18,
+    "e": 1.34
+   },
+   {
+    "text": "most",
+    "s": 1.43,
+    "e": 1.66
+   },
+   {
+    "text": "wanted",
+    "s": 1.69,
+    "e": 2.12
+   },
+   {
+    "text": "on",
+    "s": 2.12,
+    "e": 2.19
+   },
+   {
+    "text": "Earth.",
+    "s": 2.19,
+    "e": 2.9
+   },
+   {
+    "text": "The",
+    "s": 2.95,
+    "e": 3.08
+   },
+   {
+    "text": "man",
+    "s": 3.08,
+    "e": 3.26
+   },
+   {
+    "text": "who",
+    "s": 3.26,
+    "e": 3.44
+   },
+   {
+    "text": "built",
+    "s": 3.44,
+    "e": 3.74
+   },
+   {
+    "text": "the",
+    "s": 3.74,
+    "e": 3.92
+   },
+   {
+    "text": "company",
+    "s": 3.92,
+    "e": 4.34
+   },
+   {
+    "text": "around",
+    "s": 4.34,
+    "e": 4.68
+   },
+   {
+    "text": "them",
+    "s": 4.69,
+    "e": 4.98
+   },
+   {
+    "text": "just",
+    "s": 5.03,
+    "e": 5.2
+   },
+   {
+    "text": "isn't",
+    "s": 5.2,
+    "e": 5.47
+   },
+   {
+    "text": "holding",
+    "s": 5.48,
+    "e": 5.88
+   },
+   {
+    "text": "them",
+    "s": 5.88,
+    "e": 6.1
+   },
+   {
+    "text": "anymore.",
+    "s": 6.1,
+    "e": 6.69
+   }
+  ]
+ }
+]

@@ -1,0 +1,140 @@
+[
+  {
+    "text": "She's",
+    "start": 0.09,
+    "end": 0.43,
+    "id": "w0"
+  },
+  {
+    "text": "no",
+    "start": 0.43,
+    "end": 0.6,
+    "id": "w1"
+  },
+  {
+    "text": "relation,",
+    "start": 0.6,
+    "end": 1.48,
+    "id": "w2"
+  },
+  {
+    "text": "no",
+    "start": 1.54,
+    "end": 1.62,
+    "id": "w3"
+  },
+  {
+    "text": "proof",
+    "start": 1.62,
+    "end": 1.96,
+    "id": "w4"
+  },
+  {
+    "text": "has",
+    "start": 1.96,
+    "end": 2.16,
+    "id": "w5"
+  },
+  {
+    "text": "been",
+    "start": 2.19,
+    "end": 2.45,
+    "id": "w6"
+  },
+  {
+    "text": "made",
+    "start": 2.45,
+    "end": 2.68,
+    "id": "w7"
+  },
+  {
+    "text": "public,",
+    "start": 2.73,
+    "end": 3.22,
+    "id": "w8"
+  },
+  {
+    "text": "and",
+    "start": 3.22,
+    "end": 3.32,
+    "id": "w9"
+  },
+  {
+    "text": "China",
+    "start": 3.32,
+    "end": 3.66,
+    "id": "w10"
+  },
+  {
+    "text": "calls",
+    "start": 3.72,
+    "end": 4.14,
+    "id": "w11"
+  },
+  {
+    "text": "it",
+    "start": 4.21,
+    "end": 4.4,
+    "id": "w12"
+  },
+  {
+    "text": "a",
+    "start": 4.4,
+    "end": 4.49,
+    "id": "w13"
+  },
+  {
+    "text": "smear.",
+    "start": 4.5,
+    "end": 5.08,
+    "id": "w14"
+  },
+  {
+    "text": "But",
+    "start": 5.13,
+    "end": 5.24,
+    "id": "w15"
+  },
+  {
+    "text": "one",
+    "start": 5.24,
+    "end": 5.4,
+    "id": "w16"
+  },
+  {
+    "text": "question",
+    "start": 5.4,
+    "end": 5.84,
+    "id": "w17"
+  },
+  {
+    "text": "stuck,",
+    "start": 5.84,
+    "end": 6.23,
+    "id": "w18"
+  },
+  {
+    "text": "how",
+    "start": 6.23,
+    "end": 6.24,
+    "id": "w19"
+  },
+  {
+    "text": "close",
+    "start": 6.61,
+    "end": 6.67,
+    "id": "w20"
+  },
+  {
+    "text": "were",
+    "start": 6.67,
+    "end": 6.81,
+    "id": "w21"
+  },
+  {
+    "text": "they?",
+    "start": 6.9,
+    "end": 7.27,
+    "id": "w22"
+  }
+]

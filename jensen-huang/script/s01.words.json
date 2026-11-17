@@ -1,0 +1,122 @@
+[
+  {
+    "text": "These",
+    "start": 0.07,
+    "end": 0.34,
+    "id": "w0"
+  },
+  {
+    "text": "are",
+    "start": 0.34,
+    "end": 0.54,
+    "id": "w1"
+  },
+  {
+    "text": "the",
+    "start": 0.54,
+    "end": 0.74,
+    "id": "w2"
+  },
+  {
+    "text": "most",
+    "start": 0.74,
+    "end": 1.01,
+    "id": "w3"
+  },
+  {
+    "text": "wanted",
+    "start": 1.01,
+    "end": 1.4,
+    "id": "w4"
+  },
+  {
+    "text": "ships",
+    "start": 1.41,
+    "end": 1.75,
+    "id": "w5"
+  },
+  {
+    "text": "on",
+    "start": 1.75,
+    "end": 1.8,
+    "id": "w6"
+  },
+  {
+    "text": "Earth.",
+    "start": 2.3,
+    "end": 2.32,
+    "id": "w7"
+  },
+  {
+    "text": "And",
+    "start": 2.38,
+    "end": 2.52,
+    "id": "w8"
+  },
+  {
+    "text": "until",
+    "start": 2.52,
+    "end": 2.85,
+    "id": "w9"
+  },
+  {
+    "text": "last",
+    "start": 2.85,
+    "end": 3.11,
+    "id": "w10"
+  },
+  {
+    "text": "week,",
+    "start": 3.11,
+    "end": 3.52,
+    "id": "w11"
+  },
+  {
+    "text": "one",
+    "start": 3.52,
+    "end": 3.72,
+    "id": "w12"
+  },
+  {
+    "text": "man",
+    "start": 3.73,
+    "end": 3.94,
+    "id": "w13"
+  },
+  {
+    "text": "stood",
+    "start": 3.94,
+    "end": 4.11,
+    "id": "w14"
+  },
+  {
+    "text": "behind",
+    "start": 4.67,
+    "end": 4.91,
+    "id": "w15"
+  },
+  {
+    "text": "them,",
+    "start": 4.93,
+    "end": 5.32,
+    "id": "w16"
+  },
+  {
+    "text": "NVIDIA's",
+    "start": 5.39,
+    "end": 5.95,
+    "id": "w17"
+  },
+  {
+    "text": "Jensen",
+    "start": 5.95,
+    "end": 6.38,
+    "id": "w18"
+  },
+  {
+    "text": "Huang.",
+    "start": 6.43,
+    "end": 7.07,
+    "id": "w19"
+  }
+]

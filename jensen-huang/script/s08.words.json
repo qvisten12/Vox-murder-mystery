@@ -1,0 +1,146 @@
+[
+  {
+    "text": "Four",
+    "start": 0.12,
+    "end": 0.26,
+    "id": "w0"
+  },
+  {
+    "text": "days",
+    "start": 0.26,
+    "end": 0.52,
+    "id": "w1"
+  },
+  {
+    "text": "after",
+    "start": 0.52,
+    "end": 0.85,
+    "id": "w2"
+  },
+  {
+    "text": "his",
+    "start": 0.85,
+    "end": 1.05,
+    "id": "w3"
+  },
+  {
+    "text": "letter,",
+    "start": 1.05,
+    "end": 1.6,
+    "id": "w4"
+  },
+  {
+    "text": "Huang",
+    "start": 1.68,
+    "end": 1.94,
+    "id": "w5"
+  },
+  {
+    "text": "resigned",
+    "start": 1.94,
+    "end": 2.5,
+    "id": "w6"
+  },
+  {
+    "text": "as",
+    "start": 2.55,
+    "end": 2.68,
+    "id": "w7"
+  },
+  {
+    "text": "chief",
+    "start": 2.74,
+    "end": 3.15,
+    "id": "w8"
+  },
+  {
+    "text": "executive.",
+    "start": 3.15,
+    "end": 4.28,
+    "id": "w9"
+  },
+  {
+    "text": "The",
+    "start": 4.4,
+    "end": 4.49,
+    "id": "w10"
+  },
+  {
+    "text": "company's",
+    "start": 4.49,
+    "end": 5.1,
+    "id": "w11"
+  },
+  {
+    "text": "finance",
+    "start": 5.1,
+    "end": 5.58,
+    "id": "w12"
+  },
+  {
+    "text": "chief,",
+    "start": 5.58,
+    "end": 6.06,
+    "id": "w13"
+  },
+  {
+    "text": "Colette",
+    "start": 6.06,
+    "end": 6.54,
+    "id": "w14"
+  },
+  {
+    "text": "Kress,",
+    "start": 6.54,
+    "end": 7.08,
+    "id": "w15"
+  },
+  {
+    "text": "is",
+    "start": 7.08,
+    "end": 7.21,
+    "id": "w16"
+  },
+  {
+    "text": "now",
+    "start": 7.3,
+    "end": 7.43,
+    "id": "w17"
+  },
+  {
+    "text": "running",
+    "start": 7.43,
+    "end": 7.93,
+    "id": "w18"
+  },
+  {
+    "text": "NVIDIA",
+    "start": 7.93,
+    "end": 8.01,
+    "id": "w19"
+  },
+  {
+    "text": "for",
+    "start": 8.55,
+    "end": 8.59,
+    "id": "w20"
+  },
+  {
+    "text": "the",
+    "start": 8.63,
+    "end": 8.78,
+    "id": "w21"
+  },
+  {
+    "text": "time",
+    "start": 8.78,
+    "end": 8.99,
+    "id": "w22"
+  },
+  {
+    "text": "being.",
+    "start": 8.99,
+    "end": 9.44,
+    "id": "w23"
+  }
+]

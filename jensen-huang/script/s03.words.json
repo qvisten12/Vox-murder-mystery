@@ -1,0 +1,134 @@
+[
+  {
+    "text": "That",
+    "start": 0.06,
+    "end": 0.25,
+    "id": "w0"
+  },
+  {
+    "text": "makes",
+    "start": 0.25,
+    "end": 0.53,
+    "id": "w1"
+  },
+  {
+    "text": "the",
+    "start": 0.58,
+    "end": 0.73,
+    "id": "w2"
+  },
+  {
+    "text": "chips",
+    "start": 0.79,
+    "end": 1.05,
+    "id": "w3"
+  },
+  {
+    "text": "political.",
+    "start": 1.05,
+    "end": 1.82,
+    "id": "w4"
+  },
+  {
+    "text": "Washington",
+    "start": 1.88,
+    "end": 2.55,
+    "id": "w5"
+  },
+  {
+    "text": "decides",
+    "start": 2.61,
+    "end": 3.11,
+    "id": "w6"
+  },
+  {
+    "text": "which",
+    "start": 3.13,
+    "end": 3.2,
+    "id": "w7"
+  },
+  {
+    "text": "ones",
+    "start": 3.68,
+    "end": 3.83,
+    "id": "w8"
+  },
+  {
+    "text": "China",
+    "start": 3.83,
+    "end": 4.22,
+    "id": "w9"
+  },
+  {
+    "text": "can",
+    "start": 4.22,
+    "end": 4.44,
+    "id": "w10"
+  },
+  {
+    "text": "buy.",
+    "start": 4.54,
+    "end": 4.94,
+    "id": "w11"
+  },
+  {
+    "text": "Last",
+    "start": 5,
+    "end": 5.25,
+    "id": "w12"
+  },
+  {
+    "text": "December,",
+    "start": 5.25,
+    "end": 6.04,
+    "id": "w13"
+  },
+  {
+    "text": "it",
+    "start": 6.04,
+    "end": 6.15,
+    "id": "w14"
+  },
+  {
+    "text": "let",
+    "start": 6.17,
+    "end": 6.32,
+    "id": "w15"
+  },
+  {
+    "text": "Nvidia",
+    "start": 6.32,
+    "end": 6.8,
+    "id": "w16"
+  },
+  {
+    "text": "sell",
+    "start": 6.8,
+    "end": 7.05,
+    "id": "w17"
+  },
+  {
+    "text": "a",
+    "start": 7.05,
+    "end": 7.09,
+    "id": "w18"
+  },
+  {
+    "text": "far",
+    "start": 7.11,
+    "end": 7.31,
+    "id": "w19"
+  },
+  {
+    "text": "stronger",
+    "start": 7.31,
+    "end": 7.86,
+    "id": "w20"
+  },
+  {
+    "text": "one.",
+    "start": 7.86,
+    "end": 8.32,
+    "id": "w21"
+  }
+]

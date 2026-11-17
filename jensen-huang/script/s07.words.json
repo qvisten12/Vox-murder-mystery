@@ -1,0 +1,182 @@
+[
+  {
+    "text": "The",
+    "start": 0.05,
+    "end": 0.2,
+    "id": "w0"
+  },
+  {
+    "text": "board",
+    "start": 0.2,
+    "end": 0.52,
+    "id": "w1"
+  },
+  {
+    "text": "said",
+    "start": 0.53,
+    "end": 0.79,
+    "id": "w2"
+  },
+  {
+    "text": "it",
+    "start": 0.79,
+    "end": 0.92,
+    "id": "w3"
+  },
+  {
+    "text": "saw",
+    "start": 0.92,
+    "end": 1.11,
+    "id": "w4"
+  },
+  {
+    "text": "no",
+    "start": 1.11,
+    "end": 1.25,
+    "id": "w5"
+  },
+  {
+    "text": "sign",
+    "start": 1.25,
+    "end": 1.54,
+    "id": "w6"
+  },
+  {
+    "text": "that",
+    "start": 1.54,
+    "end": 1.64,
+    "id": "w7"
+  },
+  {
+    "text": "secrets",
+    "start": 1.79,
+    "end": 2.17,
+    "id": "w8"
+  },
+  {
+    "text": "were",
+    "start": 2.22,
+    "end": 2.28,
+    "id": "w9"
+  },
+  {
+    "text": "compromised,",
+    "start": 2.28,
+    "end": 3.52,
+    "id": "w10"
+  },
+  {
+    "text": "but",
+    "start": 3.53,
+    "end": 3.58,
+    "id": "w11"
+  },
+  {
+    "text": "the",
+    "start": 3.63,
+    "end": 3.7,
+    "id": "w12"
+  },
+  {
+    "text": "threads",
+    "start": 3.79,
+    "end": 4.12,
+    "id": "w13"
+  },
+  {
+    "text": "kept",
+    "start": 4.17,
+    "end": 4.3,
+    "id": "w14"
+  },
+  {
+    "text": "pulling.",
+    "start": 4.39,
+    "end": 5.32,
+    "id": "w15"
+  },
+  {
+    "text": "Shares",
+    "start": 5.37,
+    "end": 5.89,
+    "id": "w16"
+  },
+  {
+    "text": "fell.",
+    "start": 5.89,
+    "end": 6.56,
+    "id": "w17"
+  },
+  {
+    "text": "Congress",
+    "start": 6.61,
+    "end": 7.14,
+    "id": "w18"
+  },
+  {
+    "text": "wanted",
+    "start": 7.14,
+    "end": 7.57,
+    "id": "w19"
+  },
+  {
+    "text": "answers,",
+    "start": 7.57,
+    "end": 8.2,
+    "id": "w20"
+  },
+  {
+    "text": "and",
+    "start": 8.36,
+    "end": 8.41,
+    "id": "w21"
+  },
+  {
+    "text": "new",
+    "start": 8.41,
+    "end": 8.58,
+    "id": "w22"
+  },
+  {
+    "text": "reports",
+    "start": 8.58,
+    "end": 8.99,
+    "id": "w23"
+  },
+  {
+    "text": "surfaced",
+    "start": 8.99,
+    "end": 9.44,
+    "id": "w24"
+  },
+  {
+    "text": "of",
+    "start": 9.45,
+    "end": 9.57,
+    "id": "w25"
+  },
+  {
+    "text": "relationships",
+    "start": 9.57,
+    "end": 10.35,
+    "id": "w26"
+  },
+  {
+    "text": "with",
+    "start": 10.36,
+    "end": 10.61,
+    "id": "w27"
+  },
+  {
+    "text": "NVIDIA",
+    "start": 10.66,
+    "end": 10.96,
+    "id": "w28"
+  },
+  {
+    "text": "employees.",
+    "start": 11.05,
+    "end": 11.88,
+    "id": "w29"
+  }
+]

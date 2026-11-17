@@ -1,0 +1,104 @@
+[
+  {
+    "text": "The",
+    "start": 0.05,
+    "end": 0.34,
+    "id": "w0"
+  },
+  {
+    "text": "AI",
+    "start": 0.34,
+    "end": 0.56,
+    "id": "w1"
+  },
+  {
+    "text": "boom",
+    "start": 0.56,
+    "end": 1.01,
+    "id": "w2"
+  },
+  {
+    "text": "runs",
+    "start": 1.1,
+    "end": 1.46,
+    "id": "w3"
+  },
+  {
+    "text": "on",
+    "start": 1.46,
+    "end": 1.68,
+    "id": "w4"
+  },
+  {
+    "text": "Nvidia's",
+    "start": 1.68,
+    "end": 2.58,
+    "id": "w5"
+  },
+  {
+    "text": "chips.",
+    "start": 2.58,
+    "end": 3.18,
+    "id": "w6"
+  },
+  {
+    "text": "By",
+    "start": 3.23,
+    "end": 3.29,
+    "id": "w7"
+  },
+  {
+    "text": "early",
+    "start": 3.37,
+    "end": 3.68,
+    "id": "w8"
+  },
+  {
+    "text": "November,",
+    "start": 3.68,
+    "end": 4.42,
+    "id": "w9"
+  },
+  {
+    "text": "the",
+    "start": 4.42,
+    "end": 4.56,
+    "id": "w10"
+  },
+  {
+    "text": "company",
+    "start": 4.61,
+    "end": 4.98,
+    "id": "w11"
+  },
+  {
+    "text": "was",
+    "start": 4.98,
+    "end": 5.16,
+    "id": "w12"
+  },
+  {
+    "text": "worth",
+    "start": 5.16,
+    "end": 5.46,
+    "id": "w13"
+  },
+  {
+    "text": "about",
+    "start": 5.46,
+    "end": 5.74,
+    "id": "w14"
+  },
+  {
+    "text": "$4.5",
+    "start": 5.74,
+    "end": 6.51,
+    "id": "w15"
+  },
+  {
+    "text": "trillion.",
+    "start": 6.56,
+    "end": 7.3,
+    "id": "w16"
+  }
+]
