@@ -17,7 +17,7 @@
   - the NEVER HAPPENED stamp spilling into the next cell;
   - the arm reading like a finger (now a forearm and fist);
   - an empty tournament cell from 26 to 30 s (the header now lands on "Mexico's biggest cartels").
-- The sound was **measured, not heard**: effect placement and peaks were computed, and the rendered file was checked with `hyperframes audio`.
+- The sound was **measured, not heard**: effect placement and peaks were computed, and the rendered file was checked with `hyperframes audio` and normalized to -16.3 LUFS, true peak -2.3 dBTP, no clipping.
 
 ## Weakest shot / with more time
 - The S6 believers chain is text-heavy (email, clapper, Peña strip, sticky note). It would read better with fewer words and one more drawn object.
