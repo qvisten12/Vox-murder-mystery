@@ -1,0 +1,11 @@
+{
+  "setup": "WHO SHOT",
+  "payoff": "THE PRIME MINISTER?",
+  "before": "art/s00-before.png",
+  "after": "art/s00-after.png",
+  "meaning": "A dark capped figure appears in the lit doorway behind Olof and Lisbet Palme, his long shadow reaching across the snow toward them",
+  "width": 1280,
+  "height": 720,
+  "duration": 3,
+  "region": {"x": 800, "y": 270, "w": 420, "h": 340}
+}

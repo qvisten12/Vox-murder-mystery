@@ -1,4 +1,4 @@
-# Who Shot Olof Palme? — B4 Survival Thriller (draft v1, awaiting approval)
+# Who Shot Olof Palme? — B4 Survival Thriller (v1 — demo rendered for 0–25.5 s)
 
 Format: 16:9 landscape · English · ~90 s · B4 "Survival Thriller" · single narrator
 

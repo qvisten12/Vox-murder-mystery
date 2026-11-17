@@ -1,0 +1,1004 @@
+{
+"words": [
+{
+"word": "February",
+"start": 0.0,
+"end": 0.65
+},
+{
+"word": "28th,",
+"start": 0.731,
+"end": 1.347
+},
+{
+"word": "1986.",
+"start": 1.382,
+"end": 2.543
+},
+{
+"word": "Stockholm.",
+"start": 2.868,
+"end": 3.68
+},
+{
+"word": "A",
+"start": 3.959,
+"end": 4.052
+},
+{
+"word": "man",
+"start": 4.168,
+"end": 4.389
+},
+{
+"word": "walks",
+"start": 4.458,
+"end": 4.772
+},
+{
+"word": "home",
+"start": 4.818,
+"end": 5.027
+},
+{
+"word": "from",
+"start": 5.062,
+"end": 5.201
+},
+{
+"word": "the",
+"start": 5.236,
+"end": 5.306
+},
+{
+"word": "cinema",
+"start": 5.341,
+"end": 5.689
+},
+{
+"word": "with",
+"start": 5.735,
+"end": 5.863
+},
+{
+"word": "his",
+"start": 5.898,
+"end": 5.991
+},
+{
+"word": "wife.",
+"start": 6.049,
+"end": 6.513
+},
+{
+"word": "No",
+"start": 6.896,
+"end": 7.047
+},
+{
+"word": "bodyguards.",
+"start": 7.117,
+"end": 7.779
+},
+{
+"word": "No",
+"start": 7.837,
+"end": 7.964
+},
+{
+"word": "car.",
+"start": 8.046,
+"end": 8.568
+},
+{
+"word": "He",
+"start": 8.893,
+"end": 9.009
+},
+{
+"word": "is",
+"start": 9.067,
+"end": 9.172
+},
+{
+"word": "the",
+"start": 9.218,
+"end": 9.288
+},
+{
+"word": "Prime",
+"start": 9.334,
+"end": 9.613
+},
+{
+"word": "Minister",
+"start": 9.636,
+"end": 10.031
+},
+{
+"word": "of",
+"start": 10.089,
+"end": 10.147
+},
+{
+"word": "Sweden.",
+"start": 10.205,
+"end": 10.751
+},
+{
+"word": "That",
+"start": 10.995,
+"end": 11.204
+},
+{
+"word": "morning,",
+"start": 11.273,
+"end": 11.622
+},
+{
+"word": "Olof",
+"start": 11.668,
+"end": 11.981
+},
+{
+"word": "Palme",
+"start": 12.051,
+"end": 12.458
+},
+{
+"word": "sent",
+"start": 12.504,
+"end": 12.701
+},
+{
+"word": "his",
+"start": 12.748,
+"end": 12.852
+},
+{
+"word": "security",
+"start": 12.899,
+"end": 13.34
+},
+{
+"word": "detail",
+"start": 13.398,
+"end": 13.758
+},
+{
+"word": "home.",
+"start": 13.816,
+"end": 14.211
+},
+{
+"word": "He",
+"start": 14.594,
+"end": 14.698
+},
+{
+"word": "wanted",
+"start": 14.756,
+"end": 14.988
+},
+{
+"word": "one",
+"start": 15.047,
+"end": 15.186
+},
+{
+"word": "normal",
+"start": 15.232,
+"end": 15.511
+},
+{
+"word": "Friday",
+"start": 15.557,
+"end": 15.836
+},
+{
+"word": "night.",
+"start": 15.882,
+"end": 16.219
+},
+{
+"word": "At",
+"start": 16.544,
+"end": 16.684
+},
+{
+"word": "11:21",
+"start": 16.718,
+"end": 17.543
+},
+{
+"word": "p.m.,",
+"start": 17.624,
+"end": 18.112
+},
+{
+"word": "on",
+"start": 18.228,
+"end": 18.39
+},
+{
+"word": "Sveav\u00e4gen,",
+"start": 18.437,
+"end": 19.307
+},
+{
+"word": "a",
+"start": 19.551,
+"end": 19.609
+},
+{
+"word": "man",
+"start": 19.702,
+"end": 19.876
+},
+{
+"word": "steps",
+"start": 19.934,
+"end": 20.201
+},
+{
+"word": "out",
+"start": 20.236,
+"end": 20.341
+},
+{
+"word": "of",
+"start": 20.376,
+"end": 20.422
+},
+{
+"word": "the",
+"start": 20.457,
+"end": 20.526
+},
+{
+"word": "dark",
+"start": 20.561,
+"end": 20.759
+},
+{
+"word": "behind",
+"start": 20.817,
+"end": 21.119
+},
+{
+"word": "him.",
+"start": 21.177,
+"end": 21.467
+},
+{
+"word": "One",
+"start": 21.792,
+"end": 22.047
+},
+{
+"word": "shot.",
+"start": 22.094,
+"end": 22.593
+},
+{
+"word": "In",
+"start": 22.872,
+"end": 23.011
+},
+{
+"word": "the",
+"start": 23.057,
+"end": 23.127
+},
+{
+"word": "back.",
+"start": 23.174,
+"end": 23.661
+},
+{
+"word": "At",
+"start": 23.905,
+"end": 24.067
+},
+{
+"word": "point-blank",
+"start": 24.126,
+"end": 24.636
+},
+{
+"word": "range.",
+"start": 24.706,
+"end": 25.205
+},
+{
+"word": "A",
+"start": 25.588,
+"end": 25.658
+},
+{
+"word": "second",
+"start": 25.774,
+"end": 26.064
+},
+{
+"word": "bullet",
+"start": 26.111,
+"end": 26.343
+},
+{
+"word": "grazes",
+"start": 26.378,
+"end": 26.703
+},
+{
+"word": "his",
+"start": 26.749,
+"end": 26.854
+},
+{
+"word": "wife,",
+"start": 26.912,
+"end": 27.156
+},
+{
+"word": "Lisbet.",
+"start": 27.179,
+"end": 27.701
+},
+{
+"word": "The",
+"start": 28.085,
+"end": 28.189
+},
+{
+"word": "gunman",
+"start": 28.247,
+"end": 28.537
+},
+{
+"word": "runs",
+"start": 28.595,
+"end": 28.804
+},
+{
+"word": "up",
+"start": 28.839,
+"end": 28.92
+},
+{
+"word": "the",
+"start": 28.967,
+"end": 29.037
+},
+{
+"word": "stairs",
+"start": 29.071,
+"end": 29.338
+},
+{
+"word": "of",
+"start": 29.385,
+"end": 29.443
+},
+{
+"word": "Tunnelgatan,",
+"start": 29.489,
+"end": 30.209
+},
+{
+"word": "and",
+"start": 30.36,
+"end": 30.511
+},
+{
+"word": "disappears.",
+"start": 30.581,
+"end": 31.44
+},
+{
+"word": "The",
+"start": 31.765,
+"end": 31.881
+},
+{
+"word": "police",
+"start": 31.927,
+"end": 32.229
+},
+{
+"word": "don't",
+"start": 32.264,
+"end": 32.45
+},
+{
+"word": "seal",
+"start": 32.496,
+"end": 32.694
+},
+{
+"word": "off",
+"start": 32.752,
+"end": 32.868
+},
+{
+"word": "the",
+"start": 32.903,
+"end": 32.972
+},
+{
+"word": "city.",
+"start": 33.019,
+"end": 33.471
+},
+{
+"word": "The",
+"start": 33.796,
+"end": 33.913
+},
+{
+"word": "national",
+"start": 33.982,
+"end": 34.365
+},
+{
+"word": "alarm",
+"start": 34.412,
+"end": 34.714
+},
+{
+"word": "comes",
+"start": 34.772,
+"end": 34.981
+},
+{
+"word": "hours",
+"start": 35.062,
+"end": 35.375
+},
+{
+"word": "too",
+"start": 35.422,
+"end": 35.55
+},
+{
+"word": "late.",
+"start": 35.608,
+"end": 36.002
+},
+{
+"word": "The",
+"start": 36.327,
+"end": 36.444
+},
+{
+"word": "revolver",
+"start": 36.525,
+"end": 37.001
+},
+{
+"word": "is",
+"start": 37.059,
+"end": 37.14
+},
+{
+"word": "never",
+"start": 37.21,
+"end": 37.407
+},
+{
+"word": "found.",
+"start": 37.477,
+"end": 37.906
+},
+{
+"word": "In",
+"start": 38.231,
+"end": 38.371
+},
+{
+"word": "1988,",
+"start": 38.429,
+"end": 39.323
+},
+{
+"word": "Lisbet",
+"start": 39.369,
+"end": 39.729
+},
+{
+"word": "picks",
+"start": 39.776,
+"end": 40.019
+},
+{
+"word": "a",
+"start": 40.054,
+"end": 40.089
+},
+{
+"word": "man",
+"start": 40.147,
+"end": 40.356
+},
+{
+"word": "out",
+"start": 40.403,
+"end": 40.495
+},
+{
+"word": "of",
+"start": 40.53,
+"end": 40.577
+},
+{
+"word": "a",
+"start": 40.612,
+"end": 40.635
+},
+{
+"word": "lineup:",
+"start": 40.693,
+"end": 41.204
+},
+{
+"word": "Christer",
+"start": 41.529,
+"end": 41.935
+},
+{
+"word": "Pettersson.",
+"start": 41.993,
+"end": 42.585
+},
+{
+"word": "He's",
+"start": 42.91,
+"end": 43.119
+},
+{
+"word": "convicted,",
+"start": 43.166,
+"end": 43.851
+},
+{
+"word": "then",
+"start": 43.932,
+"end": 44.106
+},
+{
+"word": "freed",
+"start": 44.187,
+"end": 44.431
+},
+{
+"word": "on",
+"start": 44.466,
+"end": 44.536
+},
+{
+"word": "appeal.",
+"start": 44.571,
+"end": 45.081
+},
+{
+"word": "No",
+"start": 45.406,
+"end": 45.557
+},
+{
+"word": "weapon.",
+"start": 45.627,
+"end": 46.022
+},
+{
+"word": "No",
+"start": 46.138,
+"end": 46.277
+},
+{
+"word": "motive.",
+"start": 46.358,
+"end": 46.8
+},
+{
+"word": "Over",
+"start": 47.183,
+"end": 47.438
+},
+{
+"word": "a",
+"start": 47.496,
+"end": 47.531
+},
+{
+"word": "hundred",
+"start": 47.624,
+"end": 47.903
+},
+{
+"word": "people",
+"start": 47.937,
+"end": 48.181
+},
+{
+"word": "confess.",
+"start": 48.216,
+"end": 48.808
+},
+{
+"word": "None",
+"start": 49.249,
+"end": 49.435
+},
+{
+"word": "of",
+"start": 49.458,
+"end": 49.505
+},
+{
+"word": "them",
+"start": 49.54,
+"end": 49.656
+},
+{
+"word": "did",
+"start": 49.702,
+"end": 49.841
+},
+{
+"word": "it.",
+"start": 49.888,
+"end": 50.109
+},
+{
+"word": "Then,",
+"start": 50.434,
+"end": 50.631
+},
+{
+"word": "in",
+"start": 50.654,
+"end": 50.724
+},
+{
+"word": "2020,",
+"start": 50.805,
+"end": 51.676
+},
+{
+"word": "after",
+"start": 51.699,
+"end": 51.908
+},
+{
+"word": "thirty-four",
+"start": 51.978,
+"end": 52.419
+},
+{
+"word": "years,",
+"start": 52.489,
+"end": 52.965
+},
+{
+"word": "prosecutors",
+"start": 53.174,
+"end": 53.882
+},
+{
+"word": "name",
+"start": 53.94,
+"end": 54.091
+},
+{
+"word": "a",
+"start": 54.126,
+"end": 54.149
+},
+{
+"word": "new",
+"start": 54.207,
+"end": 54.323
+},
+{
+"word": "suspect:",
+"start": 54.381,
+"end": 55.066
+},
+{
+"word": "Stig",
+"start": 55.391,
+"end": 55.832
+},
+{
+"word": "Engstr\u00f6m,",
+"start": 55.925,
+"end": 56.61
+},
+{
+"word": "the",
+"start": 56.854,
+"end": 56.958
+},
+{
+"word": "\"Skandia",
+"start": 56.993,
+"end": 57.55
+},
+{
+"word": "Man,\"",
+"start": 57.62,
+"end": 58.061
+},
+{
+"word": "an",
+"start": 58.34,
+"end": 58.479
+},
+{
+"word": "office",
+"start": 58.549,
+"end": 58.828
+},
+{
+"word": "worker",
+"start": 58.862,
+"end": 59.141
+},
+{
+"word": "who",
+"start": 59.188,
+"end": 59.292
+},
+{
+"word": "said",
+"start": 59.35,
+"end": 59.513
+},
+{
+"word": "he",
+"start": 59.571,
+"end": 59.629
+},
+{
+"word": "was",
+"start": 59.687,
+"end": 59.791
+},
+{
+"word": "a",
+"start": 59.838,
+"end": 59.872
+},
+{
+"word": "witness",
+"start": 59.931,
+"end": 60.256
+},
+{
+"word": "at",
+"start": 60.29,
+"end": 60.348
+},
+{
+"word": "the",
+"start": 60.395,
+"end": 60.465
+},
+{
+"word": "scene.",
+"start": 60.499,
+"end": 60.917
+},
+{
+"word": "But",
+"start": 61.359,
+"end": 61.533
+},
+{
+"word": "Engstr\u00f6m",
+"start": 61.614,
+"end": 62.125
+},
+{
+"word": "had",
+"start": 62.183,
+"end": 62.299
+},
+{
+"word": "died",
+"start": 62.346,
+"end": 62.589
+},
+{
+"word": "twenty",
+"start": 62.624,
+"end": 62.903
+},
+{
+"word": "years",
+"start": 62.949,
+"end": 63.147
+},
+{
+"word": "earlier.",
+"start": 63.193,
+"end": 63.646
+},
+{
+"word": "He",
+"start": 63.971,
+"end": 64.076
+},
+{
+"word": "was",
+"start": 64.134,
+"end": 64.25
+},
+{
+"word": "never",
+"start": 64.308,
+"end": 64.493
+},
+{
+"word": "charged.",
+"start": 64.552,
+"end": 65.039
+},
+{
+"word": "The",
+"start": 65.422,
+"end": 65.527
+},
+{
+"word": "case",
+"start": 65.562,
+"end": 65.759
+},
+{
+"word": "was",
+"start": 65.794,
+"end": 65.887
+},
+{
+"word": "closed.",
+"start": 65.945,
+"end": 66.49
+},
+{
+"word": "The",
+"start": 66.874,
+"end": 67.001
+},
+{
+"word": "gun",
+"start": 67.071,
+"end": 67.245
+},
+{
+"word": "is",
+"start": 67.291,
+"end": 67.35
+},
+{
+"word": "still",
+"start": 67.384,
+"end": 67.582
+},
+{
+"word": "missing.",
+"start": 67.651,
+"end": 68.116
+},
+{
+"word": "No",
+"start": 68.29,
+"end": 68.418
+},
+{
+"word": "one",
+"start": 68.499,
+"end": 68.603
+},
+{
+"word": "was",
+"start": 68.638,
+"end": 68.743
+},
+{
+"word": "ever",
+"start": 68.801,
+"end": 68.952
+},
+{
+"word": "convicted.",
+"start": 69.01,
+"end": 69.672
+},
+{
+"word": "So,",
+"start": 70.275,
+"end": 70.473
+},
+{
+"word": "was",
+"start": 70.496,
+"end": 70.647
+},
+{
+"word": "it",
+"start": 70.705,
+"end": 70.774
+},
+{
+"word": "the",
+"start": 70.809,
+"end": 70.879
+},
+{
+"word": "Skandia",
+"start": 70.972,
+"end": 71.564
+},
+{
+"word": "Man...",
+"start": 71.634,
+"end": 72.156
+},
+{
+"word": "or",
+"start": 72.481,
+"end": 72.609
+},
+{
+"word": "someone",
+"start": 72.667,
+"end": 73.027
+},
+{
+"word": "who",
+"start": 73.05,
+"end": 73.201
+},
+{
+"word": "walked",
+"start": 73.329,
+"end": 73.642
+},
+{
+"word": "away",
+"start": 73.677,
+"end": 73.874
+},
+{
+"word": "that",
+"start": 73.932,
+"end": 74.083
+},
+{
+"word": "night,",
+"start": 74.141,
+"end": 74.536
+},
+{
+"word": "and",
+"start": 74.652,
+"end": 74.792
+},
+{
+"word": "was",
+"start": 74.85,
+"end": 74.942
+},
+{
+"word": "never",
+"start": 75.012,
+"end": 75.209
+},
+{
+"word": "found?",
+"start": 75.268,
+"end": 75.929
+}
+]
+}
