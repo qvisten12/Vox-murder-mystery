@@ -42,6 +42,13 @@
       "sourceType": "github",
       "skillPath": "skills/style-sampling/SKILL.md",
       "computedHash": "86da7c4f9b678b950c43c9b1ca323ac11e761be91d8ad14feb3cb9043926d20d"
+    },
+    "vox-explainer": {
+      "source": "CK42BB/vox-explainer-skill",
+      "commit": "7003225dc3ed1dee9e2ef8b91b05b82c04691aa9",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "314c39b1dde2cc211ea06adc15b63795e395688a7ad0707d346786e24521f761"
     }
   }
 }
