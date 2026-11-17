@@ -1,0 +1,146 @@
+[
+  {
+    "text": "He",
+    "start": 0.07,
+    "end": 0.13,
+    "id": "w0"
+  },
+  {
+    "text": "spent",
+    "start": 0.13,
+    "end": 0.39,
+    "id": "w1"
+  },
+  {
+    "text": "the",
+    "start": 0.46,
+    "end": 0.65,
+    "id": "w2"
+  },
+  {
+    "text": "next",
+    "start": 0.68,
+    "end": 0.93,
+    "id": "w3"
+  },
+  {
+    "text": "18",
+    "start": 0.93,
+    "end": 1.33,
+    "id": "w4"
+  },
+  {
+    "text": "months",
+    "start": 1.33,
+    "end": 1.76,
+    "id": "w5"
+  },
+  {
+    "text": "in",
+    "start": 1.76,
+    "end": 1.93,
+    "id": "w6"
+  },
+  {
+    "text": "an",
+    "start": 2.05,
+    "end": 2.1,
+    "id": "w7"
+  },
+  {
+    "text": "ordinary",
+    "start": 2.1,
+    "end": 2.78,
+    "id": "w8"
+  },
+  {
+    "text": "Mexico",
+    "start": 2.78,
+    "end": 3.3,
+    "id": "w9"
+  },
+  {
+    "text": "City",
+    "start": 3.3,
+    "end": 3.64,
+    "id": "w10"
+  },
+  {
+    "text": "prison",
+    "start": 3.71,
+    "end": 4.02,
+    "id": "w11"
+  },
+  {
+    "text": "and",
+    "start": 4.69,
+    "end": 4.8,
+    "id": "w12"
+  },
+  {
+    "text": "the",
+    "start": 4.8,
+    "end": 4.84,
+    "id": "w13"
+  },
+  {
+    "text": "reformed",
+    "start": 4.84,
+    "end": 5.42,
+    "id": "w14"
+  },
+  {
+    "text": "hitman",
+    "start": 5.54,
+    "end": 6,
+    "id": "w15"
+  },
+  {
+    "text": "who",
+    "start": 6.07,
+    "end": 6.2,
+    "id": "w16"
+  },
+  {
+    "text": "backed",
+    "start": 6.28,
+    "end": 6.71,
+    "id": "w17"
+  },
+  {
+    "text": "up",
+    "start": 6.71,
+    "end": 6.81,
+    "id": "w18"
+  },
+  {
+    "text": "his",
+    "start": 6.89,
+    "end": 7.11,
+    "id": "w19"
+  },
+  {
+    "text": "story,",
+    "start": 7.11,
+    "end": 7.58,
+    "id": "w20"
+  },
+  {
+    "text": "a",
+    "start": 7.64,
+    "end": 7.72,
+    "id": "w21"
+  },
+  {
+    "text": "fellow",
+    "start": 7.73,
+    "end": 8.2,
+    "id": "w22"
+  },
+  {
+    "text": "inmate.",
+    "start": 8.2,
+    "end": 8.8,
+    "id": "w23"
+  }
+]

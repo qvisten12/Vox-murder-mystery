@@ -1,0 +1,1162 @@
+[
+ {
+  "id": "s01",
+  "start": 0.5,
+  "dur": 7.339,
+  "text": "If you win, you live. If you lose, you die. That was the rule of the Cartel Olympics. Or so the story goes.",
+  "words": [
+   {
+    "text": "If",
+    "s": 0.04,
+    "e": 0.15
+   },
+   {
+    "text": "you",
+    "s": 0.19,
+    "e": 0.45
+   },
+   {
+    "text": "win,",
+    "s": 0.45,
+    "e": 0.9
+   },
+   {
+    "text": "you",
+    "s": 0.9,
+    "e": 1.03
+   },
+   {
+    "text": "live.",
+    "s": 1.16,
+    "e": 1.6
+   },
+   {
+    "text": "If",
+    "s": 1.64,
+    "e": 1.75
+   },
+   {
+    "text": "you",
+    "s": 1.79,
+    "e": 2.03
+   },
+   {
+    "text": "lose,",
+    "s": 2.03,
+    "e": 2.55
+   },
+   {
+    "text": "you",
+    "s": 2.55,
+    "e": 2.64
+   },
+   {
+    "text": "die.",
+    "s": 2.64,
+    "e": 3.36
+   },
+   {
+    "text": "That",
+    "s": 3.42,
+    "e": 3.65
+   },
+   {
+    "text": "was",
+    "s": 3.65,
+    "e": 3.85
+   },
+   {
+    "text": "the",
+    "s": 3.85,
+    "e": 4.05
+   },
+   {
+    "text": "rule",
+    "s": 4.05,
+    "e": 4.32
+   },
+   {
+    "text": "of",
+    "s": 4.32,
+    "e": 4.41
+   },
+   {
+    "text": "the",
+    "s": 4.41,
+    "e": 4.92
+   },
+   {
+    "text": "Cartel",
+    "s": 4.92,
+    "e": 5.05
+   },
+   {
+    "text": "Olympics,",
+    "s": 5.05,
+    "e": 5.68
+   },
+   {
+    "text": "or",
+    "s": 5.72,
+    "e": 5.83
+   },
+   {
+    "text": "so",
+    "s": 5.87,
+    "e": 6.03
+   },
+   {
+    "text": "the",
+    "s": 6.04,
+    "e": 6.32
+   },
+   {
+    "text": "story",
+    "s": 6.32,
+    "e": 6.71
+   },
+   {
+    "text": "goes.",
+    "s": 6.79,
+    "e": 7.44
+   }
+  ]
+ },
+ {
+  "id": "s02",
+  "start": 8.389,
+  "dur": 9.963,
+  "text": "February ninth, 2023. Mauricio Morales says a cartel grabbed him off a Mexico City street, and he woke up in a windowless room.",
+  "words": [
+   {
+    "text": "February",
+    "s": 0.11,
+    "e": 0.85
+   },
+   {
+    "text": "9,",
+    "s": 1.35,
+    "e": 1.75
+   },
+   {
+    "text": "2023,",
+    "s": 1.75,
+    "e": 3.51
+   },
+   {
+    "text": "Mauricio",
+    "s": 3.51,
+    "e": 4.03
+   },
+   {
+    "text": "Morales",
+    "s": 4.03,
+    "e": 4.52
+   },
+   {
+    "text": "says",
+    "s": 4.52,
+    "e": 4.79
+   },
+   {
+    "text": "a",
+    "s": 4.84,
+    "e": 4.87
+   },
+   {
+    "text": "cartel",
+    "s": 4.88,
+    "e": 5.4
+   },
+   {
+    "text": "grabbed",
+    "s": 5.4,
+    "e": 5.8
+   },
+   {
+    "text": "him",
+    "s": 5.8,
+    "e": 5.92
+   },
+   {
+    "text": "off",
+    "s": 5.92,
+    "e": 6.07
+   },
+   {
+    "text": "a",
+    "s": 6.15,
+    "e": 6.24
+   },
+   {
+    "text": "Mexico",
+    "s": 6.24,
+    "e": 6.8
+   },
+   {
+    "text": "City",
+    "s": 6.8,
+    "e": 7.11
+   },
+   {
+    "text": "street",
+    "s": 7.11,
+    "e": 7.48
+   },
+   {
+    "text": "and",
+    "s": 7.87,
+    "e": 7.97
+   },
+   {
+    "text": "he",
+    "s": 8.01,
+    "e": 8.12
+   },
+   {
+    "text": "woke",
+    "s": 8.12,
+    "e": 8.41
+   },
+   {
+    "text": "up",
+    "s": 8.41,
+    "e": 8.55
+   },
+   {
+    "text": "in",
+    "s": 8.55,
+    "e": 8.61
+   },
+   {
+    "text": "a",
+    "s": 8.68,
+    "e": 8.73
+   },
+   {
+    "text": "windowless",
+    "s": 9.11,
+    "e": 9.49
+   },
+   {
+    "text": "room.",
+    "s": 9.49,
+    "e": 9.84
+   }
+  ]
+ },
+ {
+  "id": "s03",
+  "start": 18.901,
+  "dur": 7.381,
+  "text": "Then the boss, Don Paco, noticed the Olympic rings tattooed on his wrist. Mau, he'd learn, was a famous runner.",
+  "words": [
+   {
+    "text": "Then",
+    "s": 0.06,
+    "e": 0.23
+   },
+   {
+    "text": "the",
+    "s": 0.31,
+    "e": 0.54
+   },
+   {
+    "text": "boss,",
+    "s": 0.54,
+    "e": 1
+   },
+   {
+    "text": "Don",
+    "s": 1,
+    "e": 1.23
+   },
+   {
+    "text": "Paco,",
+    "s": 1.23,
+    "e": 1.72
+   },
+   {
+    "text": "noticed",
+    "s": 1.76,
+    "e": 2.06
+   },
+   {
+    "text": "the",
+    "s": 2.15,
+    "e": 2.33
+   },
+   {
+    "text": "Olympic",
+    "s": 2.33,
+    "e": 2.76
+   },
+   {
+    "text": "rings",
+    "s": 2.76,
+    "e": 3.04
+   },
+   {
+    "text": "tattooed",
+    "s": 3.11,
+    "e": 3.72
+   },
+   {
+    "text": "on",
+    "s": 3.72,
+    "e": 3.89
+   },
+   {
+    "text": "his",
+    "s": 3.89,
+    "e": 4.15
+   },
+   {
+    "text": "wrist.",
+    "s": 4.15,
+    "e": 4.88
+   },
+   {
+    "text": "Mao,",
+    "s": 4.93,
+    "e": 5.24
+   },
+   {
+    "text": "he'd",
+    "s": 5.24,
+    "e": 5.52
+   },
+   {
+    "text": "learn,",
+    "s": 5.52,
+    "e": 6.02
+   },
+   {
+    "text": "was",
+    "s": 6.02,
+    "e": 6.24
+   },
+   {
+    "text": "a",
+    "s": 6.24,
+    "e": 6.31
+   },
+   {
+    "text": "famous",
+    "s": 6.31,
+    "e": 6.75
+   },
+   {
+    "text": "runner.",
+    "s": 6.75,
+    "e": 7.24
+   }
+  ]
+ },
+ {
+  "id": "s04",
+  "start": 26.833,
+  "dur": 10.624,
+  "text": "Mexico's biggest cartels, Don Paco said, hold a secret tournament every year. Soccer. Boxing. Flag football. The bosses bet. The losers die.",
+  "words": [
+   {
+    "text": "Mexico's",
+    "s": 0.05,
+    "e": 0.57
+   },
+   {
+    "text": "biggest",
+    "s": 0.57,
+    "e": 1.01
+   },
+   {
+    "text": "cartels,",
+    "s": 1.09,
+    "e": 1.7
+   },
+   {
+    "text": "Don",
+    "s": 1.74,
+    "e": 1.99
+   },
+   {
+    "text": "Paco",
+    "s": 1.99,
+    "e": 2.29
+   },
+   {
+    "text": "said,",
+    "s": 2.36,
+    "e": 2.8
+   },
+   {
+    "text": "hold",
+    "s": 2.96,
+    "e": 3.16
+   },
+   {
+    "text": "a",
+    "s": 3.16,
+    "e": 3.23
+   },
+   {
+    "text": "secret",
+    "s": 3.23,
+    "e": 3.64
+   },
+   {
+    "text": "tournament",
+    "s": 3.73,
+    "e": 4.32
+   },
+   {
+    "text": "every",
+    "s": 4.32,
+    "e": 4.63
+   },
+   {
+    "text": "year.",
+    "s": 4.63,
+    "e": 5.4
+   },
+   {
+    "text": "Soccer,",
+    "s": 5.45,
+    "e": 6.12
+   },
+   {
+    "text": "boxing,",
+    "s": 6.12,
+    "e": 6.84
+   },
+   {
+    "text": "flag",
+    "s": 6.84,
+    "e": 7.2
+   },
+   {
+    "text": "football,",
+    "s": 7.2,
+    "e": 8.1
+   },
+   {
+    "text": "the",
+    "s": 8.1,
+    "e": 8.37
+   },
+   {
+    "text": "boss's",
+    "s": 8.37,
+    "e": 8.85
+   },
+   {
+    "text": "bet,",
+    "s": 8.96,
+    "e": 9.4
+   },
+   {
+    "text": "the",
+    "s": 9.4,
+    "e": 9.56
+   },
+   {
+    "text": "losers",
+    "s": 9.63,
+    "e": 10.07
+   },
+   {
+    "text": "die.",
+    "s": 10.07,
+    "e": 10.53
+   }
+  ]
+ },
+ {
+  "id": "s05",
+  "start": 38.007,
+  "dur": 7.36,
+  "text": "Mau coached a flag football team. He says they won in overtime. He got a gold medal, and walked home at dawn.",
+  "words": [
+   {
+    "text": "Mao",
+    "s": 0.05,
+    "e": 0.24
+   },
+   {
+    "text": "coached",
+    "s": 0.24,
+    "e": 0.78
+   },
+   {
+    "text": "a",
+    "s": 0.78,
+    "e": 0.88
+   },
+   {
+    "text": "flag",
+    "s": 0.94,
+    "e": 1.19
+   },
+   {
+    "text": "football",
+    "s": 1.2,
+    "e": 1.84
+   },
+   {
+    "text": "team.",
+    "s": 1.84,
+    "e": 2.41
+   },
+   {
+    "text": "He",
+    "s": 2.48,
+    "e": 2.6
+   },
+   {
+    "text": "says",
+    "s": 2.6,
+    "e": 2.96
+   },
+   {
+    "text": "they",
+    "s": 2.96,
+    "e": 3.2
+   },
+   {
+    "text": "won",
+    "s": 3.36,
+    "e": 3.59
+   },
+   {
+    "text": "in",
+    "s": 3.59,
+    "e": 3.77
+   },
+   {
+    "text": "overtime.",
+    "s": 3.77,
+    "e": 4.74
+   },
+   {
+    "text": "He",
+    "s": 4.82,
+    "e": 4.9
+   },
+   {
+    "text": "got",
+    "s": 4.9,
+    "e": 5.06
+   },
+   {
+    "text": "a",
+    "s": 5.14,
+    "e": 5.18
+   },
+   {
+    "text": "gold",
+    "s": 5.18,
+    "e": 5.44
+   },
+   {
+    "text": "medal",
+    "s": 5.48,
+    "e": 5.83
+   },
+   {
+    "text": "and",
+    "s": 5.83,
+    "e": 5.94
+   },
+   {
+    "text": "walked",
+    "s": 6.09,
+    "e": 6.44
+   },
+   {
+    "text": "home",
+    "s": 6.5,
+    "e": 6.72
+   },
+   {
+    "text": "at",
+    "s": 6.75,
+    "e": 6.85
+   },
+   {
+    "text": "dawn.",
+    "s": 7.1,
+    "e": 7.46
+   }
+  ]
+ },
+ {
+  "id": "s06",
+  "start": 45.917,
+  "dur": 10.581,
+  "text": "A talent manager took it to Hollywood. Actor Michael Pe\u00f1a was interested, if a serious magazine would confirm it. So The Atlantic spent eight months checking.",
+  "words": [
+   {
+    "text": "A",
+    "s": 0.08,
+    "e": 0.1
+   },
+   {
+    "text": "talent",
+    "s": 0.1,
+    "e": 0.56
+   },
+   {
+    "text": "manager",
+    "s": 0.56,
+    "e": 1.12
+   },
+   {
+    "text": "took",
+    "s": 1.12,
+    "e": 1.44
+   },
+   {
+    "text": "it",
+    "s": 1.44,
+    "e": 1.6
+   },
+   {
+    "text": "to",
+    "s": 1.6,
+    "e": 1.76
+   },
+   {
+    "text": "Hollywood.",
+    "s": 1.76,
+    "e": 2.71
+   },
+   {
+    "text": "Actor",
+    "s": 2.84,
+    "e": 3.13
+   },
+   {
+    "text": "Michael",
+    "s": 3.13,
+    "e": 3.68
+   },
+   {
+    "text": "Pe\u00f1a",
+    "s": 3.68,
+    "e": 3.98
+   },
+   {
+    "text": "was",
+    "s": 3.98,
+    "e": 4.2
+   },
+   {
+    "text": "interested",
+    "s": 4.25,
+    "e": 4.91
+   },
+   {
+    "text": "if",
+    "s": 5.03,
+    "e": 5.04
+   },
+   {
+    "text": "a",
+    "s": 5.25,
+    "e": 5.34
+   },
+   {
+    "text": "serious",
+    "s": 5.58,
+    "e": 5.94
+   },
+   {
+    "text": "magazine",
+    "s": 5.94,
+    "e": 6.68
+   },
+   {
+    "text": "would",
+    "s": 6.68,
+    "e": 7.11
+   },
+   {
+    "text": "confirm",
+    "s": 7.14,
+    "e": 7.55
+   },
+   {
+    "text": "it.",
+    "s": 7.89,
+    "e": 8.04
+   },
+   {
+    "text": "So",
+    "s": 8.14,
+    "e": 8.15
+   },
+   {
+    "text": "the",
+    "s": 8.15,
+    "e": 8.32
+   },
+   {
+    "text": "Atlantic",
+    "s": 8.32,
+    "e": 8.79
+   },
+   {
+    "text": "spent",
+    "s": 8.79,
+    "e": 9.08
+   },
+   {
+    "text": "eight",
+    "s": 9.08,
+    "e": 9.37
+   },
+   {
+    "text": "months",
+    "s": 9.37,
+    "e": 9.71
+   },
+   {
+    "text": "checking.",
+    "s": 9.72,
+    "e": 10.31
+   }
+  ]
+ },
+ {
+  "id": "s07",
+  "start": 58.048,
+  "dur": 7.893,
+  "text": "The Mexican Olympic Committee had no record of him. And the photo of him racing at the Olympics? It showed an Italian runner.",
+  "words": [
+   {
+    "text": "The",
+    "s": 0.05,
+    "e": 0.2
+   },
+   {
+    "text": "Mexican",
+    "s": 0.2,
+    "e": 0.66
+   },
+   {
+    "text": "Olympic",
+    "s": 0.66,
+    "e": 1.05
+   },
+   {
+    "text": "Committee",
+    "s": 1.14,
+    "e": 1.72
+   },
+   {
+    "text": "had",
+    "s": 1.72,
+    "e": 1.92
+   },
+   {
+    "text": "no",
+    "s": 1.92,
+    "e": 2.05
+   },
+   {
+    "text": "record",
+    "s": 2.05,
+    "e": 2.48
+   },
+   {
+    "text": "of",
+    "s": 2.48,
+    "e": 2.76
+   },
+   {
+    "text": "him,",
+    "s": 2.79,
+    "e": 3.28
+   },
+   {
+    "text": "and",
+    "s": 3.33,
+    "e": 3.52
+   },
+   {
+    "text": "the",
+    "s": 3.52,
+    "e": 3.75
+   },
+   {
+    "text": "photo",
+    "s": 3.75,
+    "e": 4.16
+   },
+   {
+    "text": "of",
+    "s": 4.16,
+    "e": 4.32
+   },
+   {
+    "text": "him",
+    "s": 4.32,
+    "e": 4.56
+   },
+   {
+    "text": "racing",
+    "s": 4.56,
+    "e": 5.04
+   },
+   {
+    "text": "at",
+    "s": 5.04,
+    "e": 5.2
+   },
+   {
+    "text": "the",
+    "s": 5.2,
+    "e": 5.44
+   },
+   {
+    "text": "Olympics,",
+    "s": 5.44,
+    "e": 6.12
+   },
+   {
+    "text": "it",
+    "s": 6.17,
+    "e": 6.26
+   },
+   {
+    "text": "showed",
+    "s": 6.26,
+    "e": 6.7
+   },
+   {
+    "text": "an",
+    "s": 6.7,
+    "e": 6.83
+   },
+   {
+    "text": "Italian",
+    "s": 6.84,
+    "e": 7.35
+   },
+   {
+    "text": "runner.",
+    "s": 7.35,
+    "e": 8.04
+   }
+  ]
+ },
+ {
+  "id": "s08",
+  "start": 66.491,
+  "dur": 10.411,
+  "text": "Then there's February ninth. That's the day Mau was arrested for fraud, accused of taking about seven hundred thousand dollars with fake Beatles memorabilia.",
+  "words": [
+   {
+    "text": "Then",
+    "s": 0.09,
+    "e": 0.37
+   },
+   {
+    "text": "there's",
+    "s": 0.37,
+    "e": 1.01
+   },
+   {
+    "text": "February",
+    "s": 1.01,
+    "e": 1.45
+   },
+   {
+    "text": "9th.",
+    "s": 1.65,
+    "e": 2.24
+   },
+   {
+    "text": "That's",
+    "s": 2.33,
+    "e": 2.73
+   },
+   {
+    "text": "the",
+    "s": 2.73,
+    "e": 2.88
+   },
+   {
+    "text": "day",
+    "s": 3.01,
+    "e": 3.23
+   },
+   {
+    "text": "Mal",
+    "s": 3.23,
+    "e": 3.48
+   },
+   {
+    "text": "was",
+    "s": 3.48,
+    "e": 3.69
+   },
+   {
+    "text": "arrested",
+    "s": 3.69,
+    "e": 3.93
+   },
+   {
+    "text": "for",
+    "s": 4.55,
+    "e": 4.65
+   },
+   {
+    "text": "fraud,",
+    "s": 4.65,
+    "e": 5.12
+   },
+   {
+    "text": "accused",
+    "s": 5.21,
+    "e": 5.68
+   },
+   {
+    "text": "of",
+    "s": 5.68,
+    "e": 5.76
+   },
+   {
+    "text": "taking",
+    "s": 5.89,
+    "e": 6.32
+   },
+   {
+    "text": "about",
+    "s": 6.32,
+    "e": 6.57
+   },
+   {
+    "text": "$700,000",
+    "s": 6.77,
+    "e": 8.4
+   },
+   {
+    "text": "with",
+    "s": 8.49,
+    "e": 8.69
+   },
+   {
+    "text": "fake",
+    "s": 8.69,
+    "e": 8.98
+   },
+   {
+    "text": "Beatles",
+    "s": 8.98,
+    "e": 9.49
+   },
+   {
+    "text": "memorabilia.",
+    "s": 9.49,
+    "e": 10.52
+   }
+  ]
+ },
+ {
+  "id": "s09",
+  "start": 77.452,
+  "dur": 8.875,
+  "text": "He spent the next eighteen months in an ordinary Mexico City prison. And the reformed hit man who backed up his story? A fellow inmate.",
+  "words": [
+   {
+    "text": "He",
+    "s": 0.07,
+    "e": 0.13
+   },
+   {
+    "text": "spent",
+    "s": 0.13,
+    "e": 0.39
+   },
+   {
+    "text": "the",
+    "s": 0.46,
+    "e": 0.65
+   },
+   {
+    "text": "next",
+    "s": 0.68,
+    "e": 0.93
+   },
+   {
+    "text": "18",
+    "s": 0.93,
+    "e": 1.33
+   },
+   {
+    "text": "months",
+    "s": 1.33,
+    "e": 1.76
+   },
+   {
+    "text": "in",
+    "s": 1.76,
+    "e": 1.93
+   },
+   {
+    "text": "an",
+    "s": 2.05,
+    "e": 2.1
+   },
+   {
+    "text": "ordinary",
+    "s": 2.1,
+    "e": 2.78
+   },
+   {
+    "text": "Mexico",
+    "s": 2.78,
+    "e": 3.3
+   },
+   {
+    "text": "City",
+    "s": 3.3,
+    "e": 3.64
+   },
+   {
+    "text": "prison",
+    "s": 3.71,
+    "e": 4.02
+   },
+   {
+    "text": "and",
+    "s": 4.69,
+    "e": 4.8
+   },
+   {
+    "text": "the",
+    "s": 4.8,
+    "e": 4.84
+   },
+   {
+    "text": "reformed",
+    "s": 4.84,
+    "e": 5.42
+   },
+   {
+    "text": "hitman",
+    "s": 5.54,
+    "e": 6
+   },
+   {
+    "text": "who",
+    "s": 6.07,
+    "e": 6.2
+   },
+   {
+    "text": "backed",
+    "s": 6.28,
+    "e": 6.71
+   },
+   {
+    "text": "up",
+    "s": 6.71,
+    "e": 6.81
+   },
+   {
+    "text": "his",
+    "s": 6.89,
+    "e": 7.11
+   },
+   {
+    "text": "story,",
+    "s": 7.11,
+    "e": 7.58
+   },
+   {
+    "text": "a",
+    "s": 7.64,
+    "e": 7.72
+   },
+   {
+    "text": "fellow",
+    "s": 7.73,
+    "e": 8.2
+   },
+   {
+    "text": "inmate.",
+    "s": 8.2,
+    "e": 8.8
+   }
+  ]
+ },
+ {
+  "id": "s10",
+  "start": 88.077,
+  "dur": 4.864,
+  "text": "The Cartel Olympics never happened. But the movie? Reportedly, it's back on.",
+  "words": [
+   {
+    "text": "The",
+    "s": 0.05,
+    "e": 0.21
+   },
+   {
+    "text": "cartel",
+    "s": 0.21,
+    "e": 0.63
+   },
+   {
+    "text": "Olympics",
+    "s": 0.63,
+    "e": 1.19
+   },
+   {
+    "text": "never",
+    "s": 1.19,
+    "e": 1.54
+   },
+   {
+    "text": "happened,",
+    "s": 1.54,
+    "e": 2.26
+   },
+   {
+    "text": "but",
+    "s": 2.32,
+    "e": 2.54
+   },
+   {
+    "text": "the",
+    "s": 2.54,
+    "e": 2.78
+   },
+   {
+    "text": "movie,",
+    "s": 2.78,
+    "e": 3.36
+   },
+   {
+    "text": "reportedly",
+    "s": 3.36,
+    "e": 3.98
+   },
+   {
+    "text": "it's",
+    "s": 3.98,
+    "e": 4.23
+   },
+   {
+    "text": "back",
+    "s": 4.23,
+    "e": 4.48
+   },
+   {
+    "text": "on.",
+    "s": 4.48,
+    "e": 4.7
+   }
+  ]
+ }
+]

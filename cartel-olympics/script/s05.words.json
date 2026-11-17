@@ -1,0 +1,134 @@
+[
+  {
+    "text": "Mao",
+    "start": 0.05,
+    "end": 0.24,
+    "id": "w0"
+  },
+  {
+    "text": "coached",
+    "start": 0.24,
+    "end": 0.78,
+    "id": "w1"
+  },
+  {
+    "text": "a",
+    "start": 0.78,
+    "end": 0.88,
+    "id": "w2"
+  },
+  {
+    "text": "flag",
+    "start": 0.94,
+    "end": 1.19,
+    "id": "w3"
+  },
+  {
+    "text": "football",
+    "start": 1.2,
+    "end": 1.84,
+    "id": "w4"
+  },
+  {
+    "text": "team.",
+    "start": 1.84,
+    "end": 2.41,
+    "id": "w5"
+  },
+  {
+    "text": "He",
+    "start": 2.48,
+    "end": 2.6,
+    "id": "w6"
+  },
+  {
+    "text": "says",
+    "start": 2.6,
+    "end": 2.96,
+    "id": "w7"
+  },
+  {
+    "text": "they",
+    "start": 2.96,
+    "end": 3.2,
+    "id": "w8"
+  },
+  {
+    "text": "won",
+    "start": 3.36,
+    "end": 3.59,
+    "id": "w9"
+  },
+  {
+    "text": "in",
+    "start": 3.59,
+    "end": 3.77,
+    "id": "w10"
+  },
+  {
+    "text": "overtime.",
+    "start": 3.77,
+    "end": 4.74,
+    "id": "w11"
+  },
+  {
+    "text": "He",
+    "start": 4.82,
+    "end": 4.9,
+    "id": "w12"
+  },
+  {
+    "text": "got",
+    "start": 4.9,
+    "end": 5.06,
+    "id": "w13"
+  },
+  {
+    "text": "a",
+    "start": 5.14,
+    "end": 5.18,
+    "id": "w14"
+  },
+  {
+    "text": "gold",
+    "start": 5.18,
+    "end": 5.44,
+    "id": "w15"
+  },
+  {
+    "text": "medal",
+    "start": 5.48,
+    "end": 5.83,
+    "id": "w16"
+  },
+  {
+    "text": "and",
+    "start": 5.83,
+    "end": 5.94,
+    "id": "w17"
+  },
+  {
+    "text": "walked",
+    "start": 6.09,
+    "end": 6.44,
+    "id": "w18"
+  },
+  {
+    "text": "home",
+    "start": 6.5,
+    "end": 6.72,
+    "id": "w19"
+  },
+  {
+    "text": "at",
+    "start": 6.75,
+    "end": 6.85,
+    "id": "w20"
+  },
+  {
+    "text": "dawn.",
+    "start": 7.1,
+    "end": 7.46,
+    "id": "w21"
+  }
+]

@@ -1,0 +1,140 @@
+[
+  {
+    "text": "The",
+    "start": 0.05,
+    "end": 0.2,
+    "id": "w0"
+  },
+  {
+    "text": "Mexican",
+    "start": 0.2,
+    "end": 0.66,
+    "id": "w1"
+  },
+  {
+    "text": "Olympic",
+    "start": 0.66,
+    "end": 1.05,
+    "id": "w2"
+  },
+  {
+    "text": "Committee",
+    "start": 1.14,
+    "end": 1.72,
+    "id": "w3"
+  },
+  {
+    "text": "had",
+    "start": 1.72,
+    "end": 1.92,
+    "id": "w4"
+  },
+  {
+    "text": "no",
+    "start": 1.92,
+    "end": 2.05,
+    "id": "w5"
+  },
+  {
+    "text": "record",
+    "start": 2.05,
+    "end": 2.48,
+    "id": "w6"
+  },
+  {
+    "text": "of",
+    "start": 2.48,
+    "end": 2.76,
+    "id": "w7"
+  },
+  {
+    "text": "him,",
+    "start": 2.79,
+    "end": 3.28,
+    "id": "w8"
+  },
+  {
+    "text": "and",
+    "start": 3.33,
+    "end": 3.52,
+    "id": "w9"
+  },
+  {
+    "text": "the",
+    "start": 3.52,
+    "end": 3.75,
+    "id": "w10"
+  },
+  {
+    "text": "photo",
+    "start": 3.75,
+    "end": 4.16,
+    "id": "w11"
+  },
+  {
+    "text": "of",
+    "start": 4.16,
+    "end": 4.32,
+    "id": "w12"
+  },
+  {
+    "text": "him",
+    "start": 4.32,
+    "end": 4.56,
+    "id": "w13"
+  },
+  {
+    "text": "racing",
+    "start": 4.56,
+    "end": 5.04,
+    "id": "w14"
+  },
+  {
+    "text": "at",
+    "start": 5.04,
+    "end": 5.2,
+    "id": "w15"
+  },
+  {
+    "text": "the",
+    "start": 5.2,
+    "end": 5.44,
+    "id": "w16"
+  },
+  {
+    "text": "Olympics,",
+    "start": 5.44,
+    "end": 6.12,
+    "id": "w17"
+  },
+  {
+    "text": "it",
+    "start": 6.17,
+    "end": 6.26,
+    "id": "w18"
+  },
+  {
+    "text": "showed",
+    "start": 6.26,
+    "end": 6.7,
+    "id": "w19"
+  },
+  {
+    "text": "an",
+    "start": 6.7,
+    "end": 6.83,
+    "id": "w20"
+  },
+  {
+    "text": "Italian",
+    "start": 6.84,
+    "end": 7.35,
+    "id": "w21"
+  },
+  {
+    "text": "runner.",
+    "start": 7.35,
+    "end": 8.04,
+    "id": "w22"
+  }
+]

@@ -2,3 +2,5 @@ node_modules/
 renders/
 *.mp4
 .DS_Store
+.hyperframes/
+.media/

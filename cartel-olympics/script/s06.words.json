@@ -1,0 +1,158 @@
+[
+  {
+    "text": "A",
+    "start": 0.08,
+    "end": 0.1,
+    "id": "w0"
+  },
+  {
+    "text": "talent",
+    "start": 0.1,
+    "end": 0.56,
+    "id": "w1"
+  },
+  {
+    "text": "manager",
+    "start": 0.56,
+    "end": 1.12,
+    "id": "w2"
+  },
+  {
+    "text": "took",
+    "start": 1.12,
+    "end": 1.44,
+    "id": "w3"
+  },
+  {
+    "text": "it",
+    "start": 1.44,
+    "end": 1.6,
+    "id": "w4"
+  },
+  {
+    "text": "to",
+    "start": 1.6,
+    "end": 1.76,
+    "id": "w5"
+  },
+  {
+    "text": "Hollywood.",
+    "start": 1.76,
+    "end": 2.71,
+    "id": "w6"
+  },
+  {
+    "text": "Actor",
+    "start": 2.84,
+    "end": 3.13,
+    "id": "w7"
+  },
+  {
+    "text": "Michael",
+    "start": 3.13,
+    "end": 3.68,
+    "id": "w8"
+  },
+  {
+    "text": "Peña",
+    "start": 3.68,
+    "end": 3.98,
+    "id": "w9"
+  },
+  {
+    "text": "was",
+    "start": 3.98,
+    "end": 4.2,
+    "id": "w10"
+  },
+  {
+    "text": "interested",
+    "start": 4.25,
+    "end": 4.91,
+    "id": "w11"
+  },
+  {
+    "text": "if",
+    "start": 5.03,
+    "end": 5.04,
+    "id": "w12"
+  },
+  {
+    "text": "a",
+    "start": 5.25,
+    "end": 5.34,
+    "id": "w13"
+  },
+  {
+    "text": "serious",
+    "start": 5.58,
+    "end": 5.94,
+    "id": "w14"
+  },
+  {
+    "text": "magazine",
+    "start": 5.94,
+    "end": 6.68,
+    "id": "w15"
+  },
+  {
+    "text": "would",
+    "start": 6.68,
+    "end": 7.11,
+    "id": "w16"
+  },
+  {
+    "text": "confirm",
+    "start": 7.14,
+    "end": 7.55,
+    "id": "w17"
+  },
+  {
+    "text": "it.",
+    "start": 7.89,
+    "end": 8.04,
+    "id": "w18"
+  },
+  {
+    "text": "So",
+    "start": 8.14,
+    "end": 8.15,
+    "id": "w19"
+  },
+  {
+    "text": "the",
+    "start": 8.15,
+    "end": 8.32,
+    "id": "w20"
+  },
+  {
+    "text": "Atlantic",
+    "start": 8.32,
+    "end": 8.79,
+    "id": "w21"
+  },
+  {
+    "text": "spent",
+    "start": 8.79,
+    "end": 9.08,
+    "id": "w22"
+  },
+  {
+    "text": "eight",
+    "start": 9.08,
+    "end": 9.37,
+    "id": "w23"
+  },
+  {
+    "text": "months",
+    "start": 9.37,
+    "end": 9.71,
+    "id": "w24"
+  },
+  {
+    "text": "checking.",
+    "start": 9.72,
+    "end": 10.31,
+    "id": "w25"
+  }
+]

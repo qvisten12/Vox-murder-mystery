@@ -1,0 +1,74 @@
+[
+  {
+    "text": "The",
+    "start": 0.05,
+    "end": 0.21,
+    "id": "w0"
+  },
+  {
+    "text": "cartel",
+    "start": 0.21,
+    "end": 0.63,
+    "id": "w1"
+  },
+  {
+    "text": "Olympics",
+    "start": 0.63,
+    "end": 1.19,
+    "id": "w2"
+  },
+  {
+    "text": "never",
+    "start": 1.19,
+    "end": 1.54,
+    "id": "w3"
+  },
+  {
+    "text": "happened,",
+    "start": 1.54,
+    "end": 2.26,
+    "id": "w4"
+  },
+  {
+    "text": "but",
+    "start": 2.32,
+    "end": 2.54,
+    "id": "w5"
+  },
+  {
+    "text": "the",
+    "start": 2.54,
+    "end": 2.78,
+    "id": "w6"
+  },
+  {
+    "text": "movie,",
+    "start": 2.78,
+    "end": 3.36,
+    "id": "w7"
+  },
+  {
+    "text": "reportedly",
+    "start": 3.36,
+    "end": 3.98,
+    "id": "w8"
+  },
+  {
+    "text": "it's",
+    "start": 3.98,
+    "end": 4.23,
+    "id": "w9"
+  },
+  {
+    "text": "back",
+    "start": 4.23,
+    "end": 4.48,
+    "id": "w10"
+  },
+  {
+    "text": "on.",
+    "start": 4.48,
+    "end": 4.7,
+    "id": "w11"
+  }
+]

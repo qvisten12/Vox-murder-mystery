@@ -1,0 +1,134 @@
+[
+  {
+    "text": "Mexico's",
+    "start": 0.05,
+    "end": 0.57,
+    "id": "w0"
+  },
+  {
+    "text": "biggest",
+    "start": 0.57,
+    "end": 1.01,
+    "id": "w1"
+  },
+  {
+    "text": "cartels,",
+    "start": 1.09,
+    "end": 1.7,
+    "id": "w2"
+  },
+  {
+    "text": "Don",
+    "start": 1.74,
+    "end": 1.99,
+    "id": "w3"
+  },
+  {
+    "text": "Paco",
+    "start": 1.99,
+    "end": 2.29,
+    "id": "w4"
+  },
+  {
+    "text": "said,",
+    "start": 2.36,
+    "end": 2.8,
+    "id": "w5"
+  },
+  {
+    "text": "hold",
+    "start": 2.96,
+    "end": 3.16,
+    "id": "w6"
+  },
+  {
+    "text": "a",
+    "start": 3.16,
+    "end": 3.23,
+    "id": "w7"
+  },
+  {
+    "text": "secret",
+    "start": 3.23,
+    "end": 3.64,
+    "id": "w8"
+  },
+  {
+    "text": "tournament",
+    "start": 3.73,
+    "end": 4.32,
+    "id": "w9"
+  },
+  {
+    "text": "every",
+    "start": 4.32,
+    "end": 4.63,
+    "id": "w10"
+  },
+  {
+    "text": "year.",
+    "start": 4.63,
+    "end": 5.4,
+    "id": "w11"
+  },
+  {
+    "text": "Soccer,",
+    "start": 5.45,
+    "end": 6.12,
+    "id": "w12"
+  },
+  {
+    "text": "boxing,",
+    "start": 6.12,
+    "end": 6.84,
+    "id": "w13"
+  },
+  {
+    "text": "flag",
+    "start": 6.84,
+    "end": 7.2,
+    "id": "w14"
+  },
+  {
+    "text": "football,",
+    "start": 7.2,
+    "end": 8.1,
+    "id": "w15"
+  },
+  {
+    "text": "the",
+    "start": 8.1,
+    "end": 8.37,
+    "id": "w16"
+  },
+  {
+    "text": "boss's",
+    "start": 8.37,
+    "end": 8.85,
+    "id": "w17"
+  },
+  {
+    "text": "bet,",
+    "start": 8.96,
+    "end": 9.4,
+    "id": "w18"
+  },
+  {
+    "text": "the",
+    "start": 9.4,
+    "end": 9.56,
+    "id": "w19"
+  },
+  {
+    "text": "losers",
+    "start": 9.63,
+    "end": 10.07,
+    "id": "w20"
+  },
+  {
+    "text": "die.",
+    "start": 10.07,
+    "end": 10.53,
+    "id": "w21"
+  }
+]
