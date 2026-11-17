@@ -1,0 +1,23 @@
+{
+  "name": "vox-murder-mystery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qvisten12/Vox-murder-mystery.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qvisten12/Vox-murder-mystery/issues"
+  },
+  "homepage": "https://github.com/qvisten12/Vox-murder-mystery#readme",
+  "devDependencies": {
+    "hyperframes": "^0.9.59"
+  }
+}
