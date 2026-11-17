@@ -1,0 +1,374 @@
+[
+  {
+    "text": "So",
+    "start": 0.07,
+    "end": 0.14,
+    "id": "w0"
+  },
+  {
+    "text": "how",
+    "start": 0.14,
+    "end": 0.35,
+    "id": "w1"
+  },
+  {
+    "text": "does",
+    "start": 0.35,
+    "end": 0.64,
+    "id": "w2"
+  },
+  {
+    "text": "a",
+    "start": 0.64,
+    "end": 0.7,
+    "id": "w3"
+  },
+  {
+    "text": "jet",
+    "start": 0.71,
+    "end": 0.92,
+    "id": "w4"
+  },
+  {
+    "text": "fall",
+    "start": 0.92,
+    "end": 1.17,
+    "id": "w5"
+  },
+  {
+    "text": "like",
+    "start": 1.24,
+    "end": 1.43,
+    "id": "w6"
+  },
+  {
+    "text": "that?",
+    "start": 1.79,
+    "end": 2.04,
+    "id": "w7"
+  },
+  {
+    "text": "At",
+    "start": 2.11,
+    "end": 2.2,
+    "id": "w8"
+  },
+  {
+    "text": "high",
+    "start": 2.2,
+    "end": 2.53,
+    "id": "w9"
+  },
+  {
+    "text": "altitude,",
+    "start": 2.53,
+    "end": 3.36,
+    "id": "w10"
+  },
+  {
+    "text": "the",
+    "start": 3.36,
+    "end": 3.47,
+    "id": "w11"
+  },
+  {
+    "text": "gap",
+    "start": 3.47,
+    "end": 3.78,
+    "id": "w12"
+  },
+  {
+    "text": "between",
+    "start": 3.78,
+    "end": 4.09,
+    "id": "w13"
+  },
+  {
+    "text": "flying",
+    "start": 4.09,
+    "end": 4.52,
+    "id": "w14"
+  },
+  {
+    "text": "too",
+    "start": 4.52,
+    "end": 4.72,
+    "id": "w15"
+  },
+  {
+    "text": "slow",
+    "start": 4.72,
+    "end": 5.12,
+    "id": "w16"
+  },
+  {
+    "text": "and",
+    "start": 5.31,
+    "end": 5.49,
+    "id": "w17"
+  },
+  {
+    "text": "too",
+    "start": 5.49,
+    "end": 5.74,
+    "id": "w18"
+  },
+  {
+    "text": "fast",
+    "start": 5.74,
+    "end": 5.96,
+    "id": "w19"
+  },
+  {
+    "text": "gets",
+    "start": 6.1,
+    "end": 6.37,
+    "id": "w20"
+  },
+  {
+    "text": "very",
+    "start": 6.41,
+    "end": 6.67,
+    "id": "w21"
+  },
+  {
+    "text": "narrow,",
+    "start": 7.23,
+    "end": 7.44,
+    "id": "w22"
+  },
+  {
+    "text": "and",
+    "start": 7.52,
+    "end": 7.66,
+    "id": "w23"
+  },
+  {
+    "text": "ice",
+    "start": 7.66,
+    "end": 7.86,
+    "id": "w24"
+  },
+  {
+    "text": "and",
+    "start": 7.89,
+    "end": 8.1,
+    "id": "w25"
+  },
+  {
+    "text": "turbulence",
+    "start": 8.1,
+    "end": 8.84,
+    "id": "w26"
+  },
+  {
+    "text": "can",
+    "start": 8.84,
+    "end": 8.88,
+    "id": "w27"
+  },
+  {
+    "text": "push",
+    "start": 8.88,
+    "end": 9.29,
+    "id": "w28"
+  },
+  {
+    "text": "a",
+    "start": 9.31,
+    "end": 9.34,
+    "id": "w29"
+  },
+  {
+    "text": "plane",
+    "start": 9.49,
+    "end": 9.72,
+    "id": "w30"
+  },
+  {
+    "text": "toward",
+    "start": 9.72,
+    "end": 10.25,
+    "id": "w31"
+  },
+  {
+    "text": "either",
+    "start": 10.25,
+    "end": 10.52,
+    "id": "w32"
+  },
+  {
+    "text": "edge.",
+    "start": 10.84,
+    "end": 11.4,
+    "id": "w33"
+  },
+  {
+    "text": "Investigators",
+    "start": 11.47,
+    "end": 12.3,
+    "id": "w34"
+  },
+  {
+    "text": "are",
+    "start": 12.3,
+    "end": 12.5,
+    "id": "w35"
+  },
+  {
+    "text": "also",
+    "start": 12.5,
+    "end": 12.77,
+    "id": "w36"
+  },
+  {
+    "text": "looking",
+    "start": 12.77,
+    "end": 12.84,
+    "id": "w37"
+  },
+  {
+    "text": "at",
+    "start": 12.84,
+    "end": 13.45,
+    "id": "w38"
+  },
+  {
+    "text": "something",
+    "start": 13.45,
+    "end": 14.01,
+    "id": "w39"
+  },
+  {
+    "text": "else.",
+    "start": 14.01,
+    "end": 14.48,
+    "id": "w40"
+  },
+  {
+    "text": "Evidence",
+    "start": 14.61,
+    "end": 15.06,
+    "id": "w41"
+  },
+  {
+    "text": "that",
+    "start": 15.06,
+    "end": 15.26,
+    "id": "w42"
+  },
+  {
+    "text": "part",
+    "start": 15.4,
+    "end": 15.58,
+    "id": "w43"
+  },
+  {
+    "text": "of",
+    "start": 15.58,
+    "end": 15.67,
+    "id": "w44"
+  },
+  {
+    "text": "the",
+    "start": 15.71,
+    "end": 15.9,
+    "id": "w45"
+  },
+  {
+    "text": "left",
+    "start": 15.9,
+    "end": 15.98,
+    "id": "w46"
+  },
+  {
+    "text": "elevator,",
+    "start": 16.59,
+    "end": 16.86,
+    "id": "w47"
+  },
+  {
+    "text": "the",
+    "start": 16.93,
+    "end": 17.04,
+    "id": "w48"
+  },
+  {
+    "text": "surface",
+    "start": 17.04,
+    "end": 17.46,
+    "id": "w49"
+  },
+  {
+    "text": "that",
+    "start": 17.46,
+    "end": 17.58,
+    "id": "w50"
+  },
+  {
+    "text": "pitches",
+    "start": 17.72,
+    "end": 18.12,
+    "id": "w51"
+  },
+  {
+    "text": "the",
+    "start": 18.12,
+    "end": 18.29,
+    "id": "w52"
+  },
+  {
+    "text": "nose",
+    "start": 18.29,
+    "end": 18.3,
+    "id": "w53"
+  },
+  {
+    "text": "up",
+    "start": 18.3,
+    "end": 18.91,
+    "id": "w54"
+  },
+  {
+    "text": "and",
+    "start": 18.91,
+    "end": 19.16,
+    "id": "w55"
+  },
+  {
+    "text": "down,",
+    "start": 19.16,
+    "end": 19.66,
+    "id": "w56"
+  },
+  {
+    "text": "may",
+    "start": 19.73,
+    "end": 19.86,
+    "id": "w57"
+  },
+  {
+    "text": "have",
+    "start": 19.86,
+    "end": 20.08,
+    "id": "w58"
+  },
+  {
+    "text": "separated",
+    "start": 20.11,
+    "end": 20.72,
+    "id": "w59"
+  },
+  {
+    "text": "before",
+    "start": 20.72,
+    "end": 21.09,
+    "id": "w60"
+  },
+  {
+    "text": "impact.",
+    "start": 21.52,
+    "end": 21.74,
+    "id": "w61"
+  }
+]

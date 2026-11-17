@@ -1,0 +1,194 @@
+[
+  {
+    "text": "The",
+    "start": 0.06,
+    "end": 0.21,
+    "id": "w0"
+  },
+  {
+    "text": "jet",
+    "start": 0.21,
+    "end": 0.4,
+    "id": "w1"
+  },
+  {
+    "text": "hit",
+    "start": 0.45,
+    "end": 0.58,
+    "id": "w2"
+  },
+  {
+    "text": "the",
+    "start": 0.67,
+    "end": 0.84,
+    "id": "w3"
+  },
+  {
+    "text": "ground",
+    "start": 0.84,
+    "end": 1.25,
+    "id": "w4"
+  },
+  {
+    "text": "nose",
+    "start": 1.25,
+    "end": 1.52,
+    "id": "w5"
+  },
+  {
+    "text": "down",
+    "start": 1.52,
+    "end": 1.81,
+    "id": "w6"
+  },
+  {
+    "text": "on",
+    "start": 1.83,
+    "end": 1.98,
+    "id": "w7"
+  },
+  {
+    "text": "a",
+    "start": 1.98,
+    "end": 2.06,
+    "id": "w8"
+  },
+  {
+    "text": "busy",
+    "start": 2.06,
+    "end": 2.39,
+    "id": "w9"
+  },
+  {
+    "text": "road",
+    "start": 2.39,
+    "end": 2.71,
+    "id": "w10"
+  },
+  {
+    "text": "in",
+    "start": 2.76,
+    "end": 2.89,
+    "id": "w11"
+  },
+  {
+    "text": "Palm",
+    "start": 2.89,
+    "end": 3.2,
+    "id": "w12"
+  },
+  {
+    "text": "Beach",
+    "start": 3.2,
+    "end": 3.55,
+    "id": "w13"
+  },
+  {
+    "text": "County.",
+    "start": 3.6,
+    "end": 4.68,
+    "id": "w14"
+  },
+  {
+    "text": "All",
+    "start": 4.74,
+    "end": 4.89,
+    "id": "w15"
+  },
+  {
+    "text": "nine",
+    "start": 4.89,
+    "end": 5.08,
+    "id": "w16"
+  },
+  {
+    "text": "people",
+    "start": 5.22,
+    "end": 5.61,
+    "id": "w17"
+  },
+  {
+    "text": "on",
+    "start": 5.61,
+    "end": 5.75,
+    "id": "w18"
+  },
+  {
+    "text": "board",
+    "start": 5.75,
+    "end": 6.1,
+    "id": "w19"
+  },
+  {
+    "text": "were",
+    "start": 6.11,
+    "end": 6.4,
+    "id": "w20"
+  },
+  {
+    "text": "killed.",
+    "start": 6.4,
+    "end": 7.08,
+    "id": "w21"
+  },
+  {
+    "text": "Remarkably,",
+    "start": 7.14,
+    "end": 8.04,
+    "id": "w22"
+  },
+  {
+    "text": "only",
+    "start": 8.04,
+    "end": 8.3,
+    "id": "w23"
+  },
+  {
+    "text": "one",
+    "start": 8.3,
+    "end": 8.48,
+    "id": "w24"
+  },
+  {
+    "text": "person",
+    "start": 8.48,
+    "end": 8.87,
+    "id": "w25"
+  },
+  {
+    "text": "on",
+    "start": 8.89,
+    "end": 9.01,
+    "id": "w26"
+  },
+  {
+    "text": "the",
+    "start": 9.01,
+    "end": 9.2,
+    "id": "w27"
+  },
+  {
+    "text": "ground",
+    "start": 9.2,
+    "end": 9.59,
+    "id": "w28"
+  },
+  {
+    "text": "was",
+    "start": 9.59,
+    "end": 9.76,
+    "id": "w29"
+  },
+  {
+    "text": "reported",
+    "start": 9.77,
+    "end": 10.3,
+    "id": "w30"
+  },
+  {
+    "text": "hurt.",
+    "start": 10.3,
+    "end": 10.8,
+    "id": "w31"
+  }
+]

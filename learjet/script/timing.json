@@ -1,0 +1,1262 @@
+[
+ {
+  "id": "r1",
+  "scene_start": 0,
+  "scene_dur": 6.845,
+  "start": 0.5,
+  "dur": 5.845,
+  "text": "On November first, a business jet fell more than six miles out of the sky in a little over a minute.",
+  "words": [
+   {
+    "text": "On",
+    "s": 0.03,
+    "e": 0.16
+   },
+   {
+    "text": "November",
+    "s": 0.16,
+    "e": 0.82
+   },
+   {
+    "text": "1st,",
+    "s": 0.82,
+    "e": 1.44
+   },
+   {
+    "text": "a",
+    "s": 1.45,
+    "e": 1.51
+   },
+   {
+    "text": "business",
+    "s": 1.51,
+    "e": 2.08
+   },
+   {
+    "text": "jet",
+    "s": 2.08,
+    "e": 2.22
+   },
+   {
+    "text": "fell",
+    "s": 2.37,
+    "e": 2.52
+   },
+   {
+    "text": "more",
+    "s": 2.52,
+    "e": 2.68
+   },
+   {
+    "text": "than",
+    "s": 2.68,
+    "e": 2.86
+   },
+   {
+    "text": "six",
+    "s": 3.01,
+    "e": 3.23
+   },
+   {
+    "text": "miles",
+    "s": 3.26,
+    "e": 3.64
+   },
+   {
+    "text": "out",
+    "s": 3.64,
+    "e": 3.75
+   },
+   {
+    "text": "of",
+    "s": 3.76,
+    "e": 3.96
+   },
+   {
+    "text": "the",
+    "s": 4,
+    "e": 4.3
+   },
+   {
+    "text": "sky",
+    "s": 4.3,
+    "e": 4.33
+   },
+   {
+    "text": "in",
+    "s": 4.68,
+    "e": 4.77
+   },
+   {
+    "text": "a",
+    "s": 4.77,
+    "e": 4.84
+   },
+   {
+    "text": "little",
+    "s": 4.84,
+    "e": 5.1
+   },
+   {
+    "text": "over",
+    "s": 5.13,
+    "e": 5.3
+   },
+   {
+    "text": "a",
+    "s": 5.3,
+    "e": 5.35
+   },
+   {
+    "text": "minute.",
+    "s": 5.35,
+    "e": 5.7
+   }
+  ]
+ },
+ {
+  "id": "r2",
+  "scene_start": 6.845,
+  "scene_dur": 14.945,
+  "start": 7.545,
+  "dur": 13.845,
+  "text": "It was a Learjet sixty, a charter flight carrying seven passengers and two pilots from Austin to the Bahamas. It cruised at forty-one thousand feet, then descended to around thirty-five thousand as it crossed Florida.",
+  "words": [
+   {
+    "text": "It",
+    "s": 0.03,
+    "e": 0.19
+   },
+   {
+    "text": "was",
+    "s": 0.19,
+    "e": 0.47
+   },
+   {
+    "text": "a",
+    "s": 0.47,
+    "e": 0.56
+   },
+   {
+    "text": "Learjet",
+    "s": 0.56,
+    "e": 1.22
+   },
+   {
+    "text": "60,",
+    "s": 1.22,
+    "e": 2
+   },
+   {
+    "text": "a",
+    "s": 2.03,
+    "e": 2.06
+   },
+   {
+    "text": "charter",
+    "s": 2.06,
+    "e": 2.52
+   },
+   {
+    "text": "flight",
+    "s": 2.52,
+    "e": 2.84
+   },
+   {
+    "text": "carrying",
+    "s": 2.93,
+    "e": 3.42
+   },
+   {
+    "text": "seven",
+    "s": 3.42,
+    "e": 3.5
+   },
+   {
+    "text": "passengers",
+    "s": 3.99,
+    "e": 4.41
+   },
+   {
+    "text": "and",
+    "s": 4.47,
+    "e": 4.65
+   },
+   {
+    "text": "two",
+    "s": 4.7,
+    "e": 4.94
+   },
+   {
+    "text": "pilots",
+    "s": 4.94,
+    "e": 5.28
+   },
+   {
+    "text": "from",
+    "s": 5.44,
+    "e": 5.79
+   },
+   {
+    "text": "Austin",
+    "s": 5.79,
+    "e": 5.94
+   },
+   {
+    "text": "to",
+    "s": 6.43,
+    "e": 6.47
+   },
+   {
+    "text": "the",
+    "s": 6.47,
+    "e": 6.72
+   },
+   {
+    "text": "Bahamas.",
+    "s": 6.72,
+    "e": 7.6
+   },
+   {
+    "text": "It",
+    "s": 7.63,
+    "e": 7.76
+   },
+   {
+    "text": "cruised",
+    "s": 7.76,
+    "e": 8.28
+   },
+   {
+    "text": "at",
+    "s": 8.31,
+    "e": 8.44
+   },
+   {
+    "text": "41,000",
+    "s": 8.59,
+    "e": 9.81
+   },
+   {
+    "text": "feet,",
+    "s": 9.81,
+    "e": 10.16
+   },
+   {
+    "text": "then",
+    "s": 10.19,
+    "e": 10.37
+   },
+   {
+    "text": "descended",
+    "s": 10.41,
+    "e": 10.99
+   },
+   {
+    "text": "to",
+    "s": 10.99,
+    "e": 11.01
+   },
+   {
+    "text": "around",
+    "s": 11.12,
+    "e": 11.52
+   },
+   {
+    "text": "35,000",
+    "s": 11.52,
+    "e": 12.57
+   },
+   {
+    "text": "as",
+    "s": 12.69,
+    "e": 12.76
+   },
+   {
+    "text": "it",
+    "s": 12.76,
+    "e": 12.87
+   },
+   {
+    "text": "crossed",
+    "s": 12.97,
+    "e": 13.31
+   },
+   {
+    "text": "Florida.",
+    "s": 13.31,
+    "e": 13.94
+   }
+  ]
+ },
+ {
+  "id": "r3",
+  "scene_start": 21.791,
+  "scene_dur": 13.317,
+  "start": 22.391,
+  "dur": 12.117,
+  "text": "But South Florida was full of thunderstorms that afternoon. The crew reported light clear ice and moderate turbulence, and asked to climb. Controllers cleared them to thirty-seven thousand feet.",
+  "words": [
+   {
+    "text": "but",
+    "s": 0.03,
+    "e": 0.08
+   },
+   {
+    "text": "South",
+    "s": 0.21,
+    "e": 0.37
+   },
+   {
+    "text": "Florida",
+    "s": 0.53,
+    "e": 0.96
+   },
+   {
+    "text": "was",
+    "s": 0.96,
+    "e": 1.13
+   },
+   {
+    "text": "full",
+    "s": 1.27,
+    "e": 1.44
+   },
+   {
+    "text": "of",
+    "s": 1.44,
+    "e": 1.46
+   },
+   {
+    "text": "thunderstorms",
+    "s": 1.61,
+    "e": 2.3
+   },
+   {
+    "text": "that",
+    "s": 2.39,
+    "e": 2.64
+   },
+   {
+    "text": "afternoon.",
+    "s": 2.72,
+    "e": 3.76
+   },
+   {
+    "text": "The",
+    "s": 3.79,
+    "e": 3.84
+   },
+   {
+    "text": "crew",
+    "s": 3.97,
+    "e": 4.13
+   },
+   {
+    "text": "reported",
+    "s": 4.29,
+    "e": 4.65
+   },
+   {
+    "text": "light,",
+    "s": 4.65,
+    "e": 5.08
+   },
+   {
+    "text": "clear",
+    "s": 5.08,
+    "e": 5.61
+   },
+   {
+    "text": "ice",
+    "s": 5.61,
+    "e": 5.96
+   },
+   {
+    "text": "and",
+    "s": 5.96,
+    "e": 6.16
+   },
+   {
+    "text": "moderate",
+    "s": 6.16,
+    "e": 6.69
+   },
+   {
+    "text": "turbulence",
+    "s": 6.69,
+    "e": 6.93
+   },
+   {
+    "text": "and",
+    "s": 7.39,
+    "e": 7.64
+   },
+   {
+    "text": "asked",
+    "s": 7.64,
+    "e": 8.11
+   },
+   {
+    "text": "to",
+    "s": 8.11,
+    "e": 8.3
+   },
+   {
+    "text": "climb.",
+    "s": 8.3,
+    "e": 9.08
+   },
+   {
+    "text": "Controllers",
+    "s": 9.11,
+    "e": 9.8
+   },
+   {
+    "text": "cleared",
+    "s": 9.8,
+    "e": 10.2
+   },
+   {
+    "text": "them",
+    "s": 10.35,
+    "e": 10.52
+   },
+   {
+    "text": "to",
+    "s": 10.52,
+    "e": 10.54
+   },
+   {
+    "text": "37,000",
+    "s": 10.69,
+    "e": 11.72
+   },
+   {
+    "text": "feet.",
+    "s": 11.8,
+    "e": 12.24
+   }
+  ]
+ },
+ {
+  "id": "r4",
+  "scene_start": 35.108,
+  "scene_dur": 12.513,
+  "start": 35.608,
+  "dur": 11.413,
+  "text": "Seconds later, a mayday. The crew reported descending ten thousand feet per minute. Then an overspeed at twenty thousand. Then twenty-two thousand feet per minute, in a sixty-degree bank.",
+  "words": [
+   {
+    "text": "Seconds",
+    "s": 0.12,
+    "e": 0.55
+   },
+   {
+    "text": "later,",
+    "s": 0.56,
+    "e": 1.12
+   },
+   {
+    "text": "a",
+    "s": 1.12,
+    "e": 1.19
+   },
+   {
+    "text": "May",
+    "s": 1.19,
+    "e": 1.36
+   },
+   {
+    "text": "Day.",
+    "s": 1.68,
+    "e": 1.94
+   },
+   {
+    "text": "The",
+    "s": 2.06,
+    "e": 2.12
+   },
+   {
+    "text": "crew",
+    "s": 2.12,
+    "e": 2.31
+   },
+   {
+    "text": "reported",
+    "s": 2.37,
+    "e": 2.83
+   },
+   {
+    "text": "descending",
+    "s": 2.83,
+    "e": 3.29
+   },
+   {
+    "text": "10,000",
+    "s": 3.49,
+    "e": 4.22
+   },
+   {
+    "text": "feet",
+    "s": 4.22,
+    "e": 4.38
+   },
+   {
+    "text": "per",
+    "s": 4.52,
+    "e": 4.72
+   },
+   {
+    "text": "minute,",
+    "s": 4.72,
+    "e": 5.32
+   },
+   {
+    "text": "then",
+    "s": 5.44,
+    "e": 5.61
+   },
+   {
+    "text": "an",
+    "s": 5.61,
+    "e": 5.69
+   },
+   {
+    "text": "over",
+    "s": 5.74,
+    "e": 6.04
+   },
+   {
+    "text": "speed",
+    "s": 6.04,
+    "e": 6.41
+   },
+   {
+    "text": "at",
+    "s": 6.41,
+    "e": 6.55
+   },
+   {
+    "text": "20,000,",
+    "s": 6.55,
+    "e": 7.86
+   },
+   {
+    "text": "then",
+    "s": 7.98,
+    "e": 8.06
+   },
+   {
+    "text": "22,000",
+    "s": 8.12,
+    "e": 9.17
+   },
+   {
+    "text": "feet",
+    "s": 9.17,
+    "e": 9.23
+   },
+   {
+    "text": "per",
+    "s": 9.23,
+    "e": 9.62
+   },
+   {
+    "text": "minute",
+    "s": 9.83,
+    "e": 10.04
+   },
+   {
+    "text": "in",
+    "s": 10.04,
+    "e": 10.17
+   },
+   {
+    "text": "a",
+    "s": 10.17,
+    "e": 10.23
+   },
+   {
+    "text": "60",
+    "s": 10.23,
+    "e": 10.64
+   },
+   {
+    "text": "degree",
+    "s": 10.64,
+    "e": 11.05
+   },
+   {
+    "text": "bank.",
+    "s": 11.05,
+    "e": 11.56
+   }
+  ]
+ },
+ {
+  "id": "r5",
+  "scene_start": 47.621,
+  "scene_dur": 14.037,
+  "start": 48.221,
+  "dur": 11.837,
+  "text": "The jet hit the ground nose-down on a busy road in Palm Beach County. All nine people on board were killed. Remarkably, only one person on the ground was reported hurt.",
+  "words": [
+   {
+    "text": "The",
+    "s": 0.06,
+    "e": 0.21
+   },
+   {
+    "text": "jet",
+    "s": 0.21,
+    "e": 0.4
+   },
+   {
+    "text": "hit",
+    "s": 0.45,
+    "e": 0.58
+   },
+   {
+    "text": "the",
+    "s": 0.67,
+    "e": 0.84
+   },
+   {
+    "text": "ground",
+    "s": 0.84,
+    "e": 1.25
+   },
+   {
+    "text": "nose",
+    "s": 1.25,
+    "e": 1.52
+   },
+   {
+    "text": "down",
+    "s": 1.52,
+    "e": 1.81
+   },
+   {
+    "text": "on",
+    "s": 1.83,
+    "e": 1.98
+   },
+   {
+    "text": "a",
+    "s": 1.98,
+    "e": 2.06
+   },
+   {
+    "text": "busy",
+    "s": 2.06,
+    "e": 2.39
+   },
+   {
+    "text": "road",
+    "s": 2.39,
+    "e": 2.71
+   },
+   {
+    "text": "in",
+    "s": 2.76,
+    "e": 2.89
+   },
+   {
+    "text": "Palm",
+    "s": 2.89,
+    "e": 3.2
+   },
+   {
+    "text": "Beach",
+    "s": 3.2,
+    "e": 3.55
+   },
+   {
+    "text": "County.",
+    "s": 3.6,
+    "e": 4.68
+   },
+   {
+    "text": "All",
+    "s": 4.74,
+    "e": 4.89
+   },
+   {
+    "text": "nine",
+    "s": 4.89,
+    "e": 5.08
+   },
+   {
+    "text": "people",
+    "s": 5.22,
+    "e": 5.61
+   },
+   {
+    "text": "on",
+    "s": 5.61,
+    "e": 5.75
+   },
+   {
+    "text": "board",
+    "s": 5.75,
+    "e": 6.1
+   },
+   {
+    "text": "were",
+    "s": 6.11,
+    "e": 6.4
+   },
+   {
+    "text": "killed.",
+    "s": 6.4,
+    "e": 7.08
+   },
+   {
+    "text": "Remarkably,",
+    "s": 7.14,
+    "e": 8.04
+   },
+   {
+    "text": "only",
+    "s": 9.04,
+    "e": 9.3
+   },
+   {
+    "text": "one",
+    "s": 9.3,
+    "e": 9.48
+   },
+   {
+    "text": "person",
+    "s": 9.48,
+    "e": 9.87
+   },
+   {
+    "text": "on",
+    "s": 9.89,
+    "e": 10.01
+   },
+   {
+    "text": "the",
+    "s": 10.01,
+    "e": 10.2
+   },
+   {
+    "text": "ground",
+    "s": 10.2,
+    "e": 10.59
+   },
+   {
+    "text": "was",
+    "s": 10.59,
+    "e": 10.76
+   },
+   {
+    "text": "reported",
+    "s": 10.77,
+    "e": 11.3
+   },
+   {
+    "text": "hurt.",
+    "s": 11.3,
+    "e": 11.8
+   }
+  ]
+ },
+ {
+  "id": "r6",
+  "scene_start": 61.659,
+  "scene_dur": 22.989,
+  "start": 62.559,
+  "dur": 21.589,
+  "text": "So how does a jet fall like that? At high altitude, the gap between flying too slow and too fast gets very narrow, and ice and turbulence can push a plane toward either edge. Investigators are also looking at something else: evidence that part of the left elevator, the surface that pitches the nose up and down, may have separated before impact.",
+  "words": [
+   {
+    "text": "So",
+    "s": 0.07,
+    "e": 0.14
+   },
+   {
+    "text": "how",
+    "s": 0.14,
+    "e": 0.35
+   },
+   {
+    "text": "does",
+    "s": 0.35,
+    "e": 0.64
+   },
+   {
+    "text": "a",
+    "s": 0.64,
+    "e": 0.7
+   },
+   {
+    "text": "jet",
+    "s": 0.71,
+    "e": 0.92
+   },
+   {
+    "text": "fall",
+    "s": 0.92,
+    "e": 1.17
+   },
+   {
+    "text": "like",
+    "s": 1.24,
+    "e": 1.43
+   },
+   {
+    "text": "that?",
+    "s": 1.79,
+    "e": 2.04
+   },
+   {
+    "text": "At",
+    "s": 2.11,
+    "e": 2.2
+   },
+   {
+    "text": "high",
+    "s": 2.2,
+    "e": 2.53
+   },
+   {
+    "text": "altitude,",
+    "s": 2.53,
+    "e": 3.36
+   },
+   {
+    "text": "the",
+    "s": 3.36,
+    "e": 3.47
+   },
+   {
+    "text": "gap",
+    "s": 3.47,
+    "e": 3.78
+   },
+   {
+    "text": "between",
+    "s": 3.78,
+    "e": 4.09
+   },
+   {
+    "text": "flying",
+    "s": 4.09,
+    "e": 4.52
+   },
+   {
+    "text": "too",
+    "s": 4.52,
+    "e": 4.72
+   },
+   {
+    "text": "slow",
+    "s": 4.72,
+    "e": 5.12
+   },
+   {
+    "text": "and",
+    "s": 5.31,
+    "e": 5.49
+   },
+   {
+    "text": "too",
+    "s": 5.49,
+    "e": 5.74
+   },
+   {
+    "text": "fast",
+    "s": 5.74,
+    "e": 5.96
+   },
+   {
+    "text": "gets",
+    "s": 6.1,
+    "e": 6.37
+   },
+   {
+    "text": "very",
+    "s": 6.41,
+    "e": 6.67
+   },
+   {
+    "text": "narrow,",
+    "s": 7.23,
+    "e": 7.44
+   },
+   {
+    "text": "and",
+    "s": 7.52,
+    "e": 7.66
+   },
+   {
+    "text": "ice",
+    "s": 7.66,
+    "e": 7.86
+   },
+   {
+    "text": "and",
+    "s": 7.89,
+    "e": 8.1
+   },
+   {
+    "text": "turbulence",
+    "s": 8.1,
+    "e": 8.84
+   },
+   {
+    "text": "can",
+    "s": 8.84,
+    "e": 8.88
+   },
+   {
+    "text": "push",
+    "s": 8.88,
+    "e": 9.29
+   },
+   {
+    "text": "a",
+    "s": 9.31,
+    "e": 9.34
+   },
+   {
+    "text": "plane",
+    "s": 9.49,
+    "e": 9.72
+   },
+   {
+    "text": "toward",
+    "s": 9.72,
+    "e": 10.25
+   },
+   {
+    "text": "either",
+    "s": 10.25,
+    "e": 10.52
+   },
+   {
+    "text": "edge.",
+    "s": 10.84,
+    "e": 11.4
+   },
+   {
+    "text": "Investigators",
+    "s": 11.47,
+    "e": 12.3
+   },
+   {
+    "text": "are",
+    "s": 12.3,
+    "e": 12.5
+   },
+   {
+    "text": "also",
+    "s": 12.5,
+    "e": 12.77
+   },
+   {
+    "text": "looking",
+    "s": 12.77,
+    "e": 12.84
+   },
+   {
+    "text": "at",
+    "s": 12.84,
+    "e": 13.45
+   },
+   {
+    "text": "something",
+    "s": 13.45,
+    "e": 14.01
+   },
+   {
+    "text": "else.",
+    "s": 14.01,
+    "e": 14.48
+   },
+   {
+    "text": "Evidence",
+    "s": 14.61,
+    "e": 15.06
+   },
+   {
+    "text": "that",
+    "s": 15.06,
+    "e": 15.26
+   },
+   {
+    "text": "part",
+    "s": 15.4,
+    "e": 15.58
+   },
+   {
+    "text": "of",
+    "s": 15.58,
+    "e": 15.67
+   },
+   {
+    "text": "the",
+    "s": 15.71,
+    "e": 15.9
+   },
+   {
+    "text": "left",
+    "s": 15.9,
+    "e": 15.98
+   },
+   {
+    "text": "elevator,",
+    "s": 16.59,
+    "e": 16.86
+   },
+   {
+    "text": "the",
+    "s": 16.93,
+    "e": 17.04
+   },
+   {
+    "text": "surface",
+    "s": 17.04,
+    "e": 17.46
+   },
+   {
+    "text": "that",
+    "s": 17.46,
+    "e": 17.58
+   },
+   {
+    "text": "pitches",
+    "s": 17.72,
+    "e": 18.12
+   },
+   {
+    "text": "the",
+    "s": 18.12,
+    "e": 18.29
+   },
+   {
+    "text": "nose",
+    "s": 18.29,
+    "e": 18.3
+   },
+   {
+    "text": "up",
+    "s": 18.3,
+    "e": 18.91
+   },
+   {
+    "text": "and",
+    "s": 18.91,
+    "e": 19.16
+   },
+   {
+    "text": "down,",
+    "s": 19.16,
+    "e": 19.66
+   },
+   {
+    "text": "may",
+    "s": 19.73,
+    "e": 19.86
+   },
+   {
+    "text": "have",
+    "s": 19.86,
+    "e": 20.08
+   },
+   {
+    "text": "separated",
+    "s": 20.11,
+    "e": 20.72
+   },
+   {
+    "text": "before",
+    "s": 20.72,
+    "e": 21.09
+   },
+   {
+    "text": "impact.",
+    "s": 21.52,
+    "e": 21.74
+   }
+  ]
+ },
+ {
+  "id": "r7",
+  "scene_start": 84.648,
+  "scene_dur": 18.653,
+  "start": 85.248,
+  "dur": 12.053,
+  "text": "The N.T.S.B. has recovered the cockpit voice recorder. Its preliminary report should come in a few weeks, but the full answer to why this jet fell will likely take a year or more.",
+  "words": [
+   {
+    "text": "The",
+    "s": 0.06,
+    "e": 0.51
+   },
+   {
+    "text": "NTSB",
+    "s": 0.51,
+    "e": 1.1
+   },
+   {
+    "text": "has",
+    "s": 1.29,
+    "e": 1.69
+   },
+   {
+    "text": "recovered",
+    "s": 1.7,
+    "e": 3.2
+   },
+   {
+    "text": "the",
+    "s": 3.25,
+    "e": 3.46
+   },
+   {
+    "text": "cockpit",
+    "s": 3.46,
+    "e": 3.99
+   },
+   {
+    "text": "voice",
+    "s": 3.99,
+    "e": 4.36
+   },
+   {
+    "text": "recorder.",
+    "s": 4.36,
+    "e": 5.08
+   },
+   {
+    "text": "Its",
+    "s": 5.14,
+    "e": 5.28
+   },
+   {
+    "text": "preliminary",
+    "s": 5.28,
+    "e": 6.01
+   },
+   {
+    "text": "report",
+    "s": 6.01,
+    "e": 6.41
+   },
+   {
+    "text": "should",
+    "s": 6.41,
+    "e": 6.81
+   },
+   {
+    "text": "come",
+    "s": 6.81,
+    "e": 7.07
+   },
+   {
+    "text": "in",
+    "s": 7.07,
+    "e": 7.19
+   },
+   {
+    "text": "a",
+    "s": 7.19,
+    "e": 7.2
+   },
+   {
+    "text": "few",
+    "s": 7.2,
+    "e": 7.65
+   },
+   {
+    "text": "weeks,",
+    "s": 7.65,
+    "e": 7.96
+   },
+   {
+    "text": "but",
+    "s": 8.02,
+    "e": 8.17
+   },
+   {
+    "text": "the",
+    "s": 8.17,
+    "e": 8.38
+   },
+   {
+    "text": "full",
+    "s": 8.38,
+    "e": 8.47
+   },
+   {
+    "text": "answer",
+    "s": 8.65,
+    "e": 9.05
+   },
+   {
+    "text": "to",
+    "s": 9.05,
+    "e": 9.06
+   },
+   {
+    "text": "why",
+    "s": 9.25,
+    "e": 9.41
+   },
+   {
+    "text": "this",
+    "s": 9.41,
+    "e": 9.68
+   },
+   {
+    "text": "jet",
+    "s": 9.68,
+    "e": 9.92
+   },
+   {
+    "text": "fell",
+    "s": 9.92,
+    "e": 10.08
+   },
+   {
+    "text": "will",
+    "s": 10.38,
+    "e": 10.69
+   },
+   {
+    "text": "likely",
+    "s": 10.69,
+    "e": 11.25
+   },
+   {
+    "text": "take",
+    "s": 11.25,
+    "e": 11.62
+   },
+   {
+    "text": "a",
+    "s": 11.62,
+    "e": 11.71
+   },
+   {
+    "text": "year",
+    "s": 11.71,
+    "e": 12.08
+   },
+   {
+    "text": "or",
+    "s": 12.08,
+    "e": 12.26
+   },
+   {
+    "text": "more.",
+    "s": 12.26,
+    "e": 12.96
+   }
+  ]
+ }
+]

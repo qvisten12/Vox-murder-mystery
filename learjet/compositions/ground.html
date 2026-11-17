@@ -1,0 +1,75 @@
+<template>
+  <style>
+    #root { position: absolute; inset: 0; overflow: hidden; color: #1b1b1b; font-family: "Inter", sans-serif; }
+    .paper {
+      position: absolute; inset: 0; background-color: #ece6da;
+      background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='300' height='300'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='3' seed='4'/><feColorMatrix values='0 0 0 0 0.35  0 0 0 0 0.3  0 0 0 0 0.22  0 0 0 0.16 0'/></filter><rect width='300' height='300' filter='url(%23n)'/></svg>");
+    }
+    .card { position: absolute; background: #f8f5ee; border-radius: 4px; box-shadow: 0 14px 30px rgba(40, 30, 15, 0.18); padding: 28px 36px; }
+    .disp { font-family: "Archivo Black", sans-serif; line-height: 0.95; }
+    .mono { font-family: "JetBrains Mono", monospace; font-weight: 600; }
+    .lbl { font-family: "JetBrains Mono", monospace; font-weight: 600; font-size: 34px; letter-spacing: 0.04em; color: #55504a; }
+    .hl { background: linear-gradient(transparent 12%, #ffd84a 12%, #ffd84a 88%, transparent 88%) no-repeat; background-size: 0% 100%; padding: 0 6px; }
+
+    #streets { position: absolute; left: 0; top: 0; width: 1920px; height: 1080px; }
+    #icons { position: absolute; left: 120px; top: 760px; display: flex; gap: 14px; align-items: flex-end; }
+    #place { left: 120px; top: 90px; width: 760px; }
+    #hurt { position: absolute; left: 1330px; top: 600px; white-space: nowrap; }
+
+  </style>
+  <div id="root" data-composition-id="ground" data-width="1920" data-height="1080" data-layout-allow-overflow data-layout-allow-overlap>
+
+    <div class="paper"></div>
+    <div id="streetcam" style="position: absolute; inset: 0">
+      <svg id="streets" viewBox="0 0 1920 1080">
+        <g stroke="#cfc6b6" stroke-width="18" fill="none">
+          <path d="M0 230 H1920" /><path d="M0 820 H1920" /><path d="M520 0 V1080" /><path d="M1700 0 V1080" />
+        </g>
+        <path d="M1110 0 V1080" stroke="#8f877a" stroke-width="54" />
+        <path d="M0 520 H1920" stroke="#a69d8f" stroke-width="34" />
+        <text x="1142" y="600" font-family="JetBrains Mono" font-weight="600" font-size="34" fill="#55504a" transform="rotate(90 1142 600)">MILITARY TRAIL</text>
+        <text x="40" y="490" font-family="JetBrains Mono" font-weight="600" font-size="34" fill="#55504a">10TH AVE N</text>
+        <g transform="translate(1110 470)"><g id="pin">
+          <path d="M0 0 C-34 -48 -46 -66 -46 -88 A46 46 0 1 1 46 -88 C46 -66 34 -48 0 0 Z" fill="#c8372d" />
+          <circle cx="0" cy="-90" r="17" fill="#f8f5ee" />
+        </g></g>
+        <g id="hurt-dot"><circle cx="1290" cy="560" r="30" fill="#ffd84a" opacity="0.65" /><circle cx="1290" cy="560" r="12" fill="#1b1b1b" /></g>
+      </svg>
+    </div>
+    <div id="place" class="card">
+      <div class="disp" style="font-size: 52px">PALM BEACH COUNTY, FLA.</div>
+      <div class="lbl" style="margin-top: 10px">GREENACRES AREA · SCHEMATIC, NOT TO SCALE</div>
+    </div>
+    <div id="icons"><svg class="pp" id="g-p1" width="72" height="97" viewBox="0 0 64 86"><circle cx="32" cy="18" r="15" fill="#1b1b1b"/><path d="M6 86 C6 52 18 40 32 40 C46 40 58 52 58 86 Z" fill="#1b1b1b"/></svg><svg class="pp" id="g-p2" width="72" height="97" viewBox="0 0 64 86"><circle cx="32" cy="18" r="15" fill="#1b1b1b"/><path d="M6 86 C6 52 18 40 32 40 C46 40 58 52 58 86 Z" fill="#1b1b1b"/></svg><svg class="pp" id="g-p3" width="72" height="97" viewBox="0 0 64 86"><circle cx="32" cy="18" r="15" fill="#1b1b1b"/><path d="M6 86 C6 52 18 40 32 40 C46 40 58 52 58 86 Z" fill="#1b1b1b"/></svg><svg class="pp" id="g-p4" width="72" height="97" viewBox="0 0 64 86"><circle cx="32" cy="18" r="15" fill="#1b1b1b"/><path d="M6 86 C6 52 18 40 32 40 C46 40 58 52 58 86 Z" fill="#1b1b1b"/></svg><svg class="pp" id="g-p5" width="72" height="97" viewBox="0 0 64 86"><circle cx="32" cy="18" r="15" fill="#1b1b1b"/><path d="M6 86 C6 52 18 40 32 40 C46 40 58 52 58 86 Z" fill="#1b1b1b"/></svg><svg class="pp" id="g-p6" width="72" height="97" viewBox="0 0 64 86"><circle cx="32" cy="18" r="15" fill="#1b1b1b"/><path d="M6 86 C6 52 18 40 32 40 C46 40 58 52 58 86 Z" fill="#1b1b1b"/></svg><svg class="pp" id="g-p7" width="72" height="97" viewBox="0 0 64 86"><circle cx="32" cy="18" r="15" fill="#1b1b1b"/><path d="M6 86 C6 52 18 40 32 40 C46 40 58 52 58 86 Z" fill="#1b1b1b"/></svg><svg class="pp" id="g-p8" width="72" height="97" viewBox="0 0 64 86"><circle cx="32" cy="18" r="15" fill="#2e64a8"/><path d="M6 86 C6 52 18 40 32 40 C46 40 58 52 58 86 Z" fill="#2e64a8"/></svg><svg class="pp" id="g-p9" width="72" height="97" viewBox="0 0 64 86"><circle cx="32" cy="18" r="15" fill="#2e64a8"/><path d="M6 86 C6 52 18 40 32 40 C46 40 58 52 58 86 Z" fill="#2e64a8"/></svg></div>
+    <div id="hurt" class="card mono" style="font-size: 36px; padding: 14px 22px">1 HURT ON THE GROUND</div>
+
+  </div>
+  <script>
+    const tl = gsap.timeline({ paused: true });
+    function inCard(sel, t, extra) {
+      tl.fromTo(sel, Object.assign({ opacity: 0, y: 30, scale: 0.97, filter: "blur(8px)" }, (extra && extra.from) || {}),
+        Object.assign({ opacity: 1, y: 0, scale: 1, filter: "blur(0px)", duration: 0.8, ease: "expo.out" }, (extra && extra.to) || {}), t);
+    }
+    function draw(sel, t, d, ease) {
+      tl.fromTo(sel, { strokeDasharray: 1, strokeDashoffset: 1 }, { strokeDashoffset: 0, duration: d, ease: ease || "power2.inOut" }, t);
+    }
+    function swipe(sel, t, d) {
+      tl.fromTo(sel, { backgroundSize: "0% 100%" }, { backgroundSize: "100% 100%", duration: d || 0.5, ease: "power2.out" }, t);
+    }
+
+    tl.set("#streetcam", { transformOrigin: "1110px 470px" }, 0);
+    inCard("#place", 0.3);
+    // A15 slow push-in, pin drops (no crash animation)
+    tl.fromTo("#streetcam", { scale: 1 }, { scale: 1.12, duration: 13.54, ease: "sine.inOut" }, 0);
+    tl.fromTo("#pin", { y: -120, opacity: 0 }, { y: 0, opacity: 1, duration: 0.7, ease: "power3.out" }, 1.75);
+    // A16 the nine fade to grey, one at a time; then about a second of silence
+    tl.fromTo("#icons", { opacity: 0 }, { opacity: 1, duration: 0.6, ease: "power2.out" }, 4.74);
+    tl.to("#icons .pp path, #icons .pp circle", { fill: "#b7afa2", duration: 0.5, ease: "power1.inOut", stagger: 0.09 }, 5.34);
+    // A17 one soft highlight off the pin
+    tl.fromTo("#hurt-dot", { opacity: 0, scale: 0.6, transformOrigin: "1290px 560px" }, { opacity: 1, scale: 1, duration: 0.8, ease: "power2.out" }, 8.34);
+    inCard("#hurt", 10.08);
+
+    tl.to({}, { duration: 0.01 }, 14.017);
+    window.__timelines["ground"] = tl;
+  </script>
+</template>

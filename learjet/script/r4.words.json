@@ -1,0 +1,176 @@
+[
+  {
+    "text": "Seconds",
+    "start": 0.12,
+    "end": 0.55,
+    "id": "w0"
+  },
+  {
+    "text": "later,",
+    "start": 0.56,
+    "end": 1.12,
+    "id": "w1"
+  },
+  {
+    "text": "a",
+    "start": 1.12,
+    "end": 1.19,
+    "id": "w2"
+  },
+  {
+    "text": "May",
+    "start": 1.19,
+    "end": 1.36,
+    "id": "w3"
+  },
+  {
+    "text": "Day.",
+    "start": 1.68,
+    "end": 1.94,
+    "id": "w4"
+  },
+  {
+    "text": "The",
+    "start": 2.06,
+    "end": 2.12,
+    "id": "w5"
+  },
+  {
+    "text": "crew",
+    "start": 2.12,
+    "end": 2.31,
+    "id": "w6"
+  },
+  {
+    "text": "reported",
+    "start": 2.37,
+    "end": 2.83,
+    "id": "w7"
+  },
+  {
+    "text": "descending",
+    "start": 2.83,
+    "end": 3.29,
+    "id": "w8"
+  },
+  {
+    "text": "10,000",
+    "start": 3.49,
+    "end": 4.22,
+    "id": "w9"
+  },
+  {
+    "text": "feet",
+    "start": 4.22,
+    "end": 4.38,
+    "id": "w10"
+  },
+  {
+    "text": "per",
+    "start": 4.52,
+    "end": 4.72,
+    "id": "w11"
+  },
+  {
+    "text": "minute,",
+    "start": 4.72,
+    "end": 5.32,
+    "id": "w12"
+  },
+  {
+    "text": "then",
+    "start": 5.44,
+    "end": 5.61,
+    "id": "w13"
+  },
+  {
+    "text": "an",
+    "start": 5.61,
+    "end": 5.69,
+    "id": "w14"
+  },
+  {
+    "text": "over",
+    "start": 5.74,
+    "end": 6.04,
+    "id": "w15"
+  },
+  {
+    "text": "speed",
+    "start": 6.04,
+    "end": 6.41,
+    "id": "w16"
+  },
+  {
+    "text": "at",
+    "start": 6.41,
+    "end": 6.55,
+    "id": "w17"
+  },
+  {
+    "text": "20,000,",
+    "start": 6.55,
+    "end": 7.86,
+    "id": "w18"
+  },
+  {
+    "text": "then",
+    "start": 7.98,
+    "end": 8.06,
+    "id": "w19"
+  },
+  {
+    "text": "22,000",
+    "start": 8.12,
+    "end": 9.17,
+    "id": "w20"
+  },
+  {
+    "text": "feet",
+    "start": 9.17,
+    "end": 9.23,
+    "id": "w21"
+  },
+  {
+    "text": "per",
+    "start": 9.23,
+    "end": 9.62,
+    "id": "w22"
+  },
+  {
+    "text": "minute",
+    "start": 9.83,
+    "end": 10.04,
+    "id": "w23"
+  },
+  {
+    "text": "in",
+    "start": 10.04,
+    "end": 10.17,
+    "id": "w24"
+  },
+  {
+    "text": "a",
+    "start": 10.17,
+    "end": 10.23,
+    "id": "w25"
+  },
+  {
+    "text": "60",
+    "start": 10.23,
+    "end": 10.64,
+    "id": "w26"
+  },
+  {
+    "text": "degree",
+    "start": 10.64,
+    "end": 11.05,
+    "id": "w27"
+  },
+  {
+    "text": "bank.",
+    "start": 11.05,
+    "end": 11.56,
+    "id": "w28"
+  }
+]

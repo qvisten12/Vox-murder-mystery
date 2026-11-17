@@ -1,0 +1,170 @@
+[
+  {
+    "text": "but",
+    "start": 0.03,
+    "end": 0.08,
+    "id": "w0"
+  },
+  {
+    "text": "South",
+    "start": 0.21,
+    "end": 0.37,
+    "id": "w1"
+  },
+  {
+    "text": "Florida",
+    "start": 0.53,
+    "end": 0.96,
+    "id": "w2"
+  },
+  {
+    "text": "was",
+    "start": 0.96,
+    "end": 1.13,
+    "id": "w3"
+  },
+  {
+    "text": "full",
+    "start": 1.27,
+    "end": 1.44,
+    "id": "w4"
+  },
+  {
+    "text": "of",
+    "start": 1.44,
+    "end": 1.46,
+    "id": "w5"
+  },
+  {
+    "text": "thunderstorms",
+    "start": 1.61,
+    "end": 2.3,
+    "id": "w6"
+  },
+  {
+    "text": "that",
+    "start": 2.39,
+    "end": 2.64,
+    "id": "w7"
+  },
+  {
+    "text": "afternoon.",
+    "start": 2.72,
+    "end": 3.76,
+    "id": "w8"
+  },
+  {
+    "text": "The",
+    "start": 3.79,
+    "end": 3.84,
+    "id": "w9"
+  },
+  {
+    "text": "crew",
+    "start": 3.97,
+    "end": 4.13,
+    "id": "w10"
+  },
+  {
+    "text": "reported",
+    "start": 4.29,
+    "end": 4.65,
+    "id": "w11"
+  },
+  {
+    "text": "light,",
+    "start": 4.65,
+    "end": 5.08,
+    "id": "w12"
+  },
+  {
+    "text": "clear",
+    "start": 5.08,
+    "end": 5.61,
+    "id": "w13"
+  },
+  {
+    "text": "ice",
+    "start": 5.61,
+    "end": 5.96,
+    "id": "w14"
+  },
+  {
+    "text": "and",
+    "start": 5.96,
+    "end": 6.16,
+    "id": "w15"
+  },
+  {
+    "text": "moderate",
+    "start": 6.16,
+    "end": 6.69,
+    "id": "w16"
+  },
+  {
+    "text": "turbulence",
+    "start": 6.69,
+    "end": 6.93,
+    "id": "w17"
+  },
+  {
+    "text": "and",
+    "start": 7.39,
+    "end": 7.64,
+    "id": "w18"
+  },
+  {
+    "text": "asked",
+    "start": 7.64,
+    "end": 8.11,
+    "id": "w19"
+  },
+  {
+    "text": "to",
+    "start": 8.11,
+    "end": 8.3,
+    "id": "w20"
+  },
+  {
+    "text": "climb.",
+    "start": 8.3,
+    "end": 9.08,
+    "id": "w21"
+  },
+  {
+    "text": "Controllers",
+    "start": 9.11,
+    "end": 9.8,
+    "id": "w22"
+  },
+  {
+    "text": "cleared",
+    "start": 9.8,
+    "end": 10.2,
+    "id": "w23"
+  },
+  {
+    "text": "them",
+    "start": 10.35,
+    "end": 10.52,
+    "id": "w24"
+  },
+  {
+    "text": "to",
+    "start": 10.52,
+    "end": 10.54,
+    "id": "w25"
+  },
+  {
+    "text": "37,000",
+    "start": 10.69,
+    "end": 11.72,
+    "id": "w26"
+  },
+  {
+    "text": "feet.",
+    "start": 11.8,
+    "end": 12.24,
+    "id": "w27"
+  }
+]

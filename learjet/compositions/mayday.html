@@ -1,0 +1,96 @@
+<template>
+  <style>
+    #root { position: absolute; inset: 0; overflow: hidden; color: #1b1b1b; font-family: "Inter", sans-serif; }
+    .paper {
+      position: absolute; inset: 0; background-color: #ece6da;
+      background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='300' height='300'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='3' seed='4'/><feColorMatrix values='0 0 0 0 0.35  0 0 0 0 0.3  0 0 0 0 0.22  0 0 0 0.16 0'/></filter><rect width='300' height='300' filter='url(%23n)'/></svg>");
+    }
+    .card { position: absolute; background: #f8f5ee; border-radius: 4px; box-shadow: 0 14px 30px rgba(40, 30, 15, 0.18); padding: 28px 36px; }
+    .disp { font-family: "Archivo Black", sans-serif; line-height: 0.95; }
+    .mono { font-family: "JetBrains Mono", monospace; font-weight: 600; }
+    .lbl { font-family: "JetBrains Mono", monospace; font-weight: 600; font-size: 34px; letter-spacing: 0.04em; color: #55504a; }
+    .hl { background: linear-gradient(transparent 12%, #ffd84a 12%, #ffd84a 88%, transparent 88%) no-repeat; background-size: 0% 100%; padding: 0 6px; }
+
+    #left { position: absolute; left: 0; top: 0; width: 900px; height: 1080px; background: #e4ddcf; }
+    #mayday { position: absolute; left: 150px; top: 120px; padding: 18px 40px 14px; background: #c8372d; color: #fff; font-size: 120px; z-index: 5; }
+    #jetfront { position: absolute; left: 160px; top: 420px; width: 580px; height: 300px; }
+    #bank-label { position: absolute; left: 260px; top: 760px; font-size: 70px; }
+    #chart { position: absolute; left: 990px; top: 150px; width: 560px; height: 760px; }
+    .bar { position: absolute; bottom: 120px; width: 190px; background: #1b1b1b; transform-origin: 50% 100%; }
+    .bval { position: absolute; width: 230px; text-align: center; font-size: 40px; }
+    .bcap { position: absolute; bottom: 30px; width: 230px; text-align: center; font-size: 30px; color: #55504a; }
+    #gauge { position: absolute; left: 1580px; top: 330px; width: 250px; height: 250px; }
+
+  </style>
+  <div id="root" data-composition-id="mayday" data-width="1920" data-height="1080" data-layout-allow-overflow data-layout-allow-overlap>
+
+    <div class="paper"></div>
+    <div id="left"></div>
+    <div id="mayday" class="disp">MAYDAY</div>
+    <svg id="jetfront" viewBox="0 0 580 300">
+      <g id="jet-roll">
+        <rect x="20" y="138" width="540" height="22" rx="10" fill="#1b1b1b" />
+        <circle cx="290" cy="150" r="54" fill="#1b1b1b" />
+        <path d="M282 96 L298 96 L300 18 L280 18 Z" fill="#1b1b1b" />
+        <rect x="200" y="12" width="180" height="14" rx="6" fill="#1b1b1b" />
+        <circle cx="290" cy="150" r="22" fill="#e4ddcf" />
+      </g>
+      <path id="protractor" pathLength="1" d="M440 150 A150 150 0 0 0 365 20" fill="none" stroke="#c8372d" stroke-width="8" stroke-dasharray="1" />
+      <line x1="140" y1="150" x2="440" y2="150" stroke="#8f877a" stroke-width="3" stroke-dasharray="10 8" />
+    </svg>
+    <div id="bank-label" class="disp" style="opacity: 0">60° BANK</div>
+    <div id="chart">
+      <div class="lbl" style="position: absolute; left: 0; top: -80px; white-space: nowrap">REPORTED DESCENT, FT/MIN</div>
+      <div style="position: absolute; left: 0; right: 0; top: 70px; bottom: 120px; border-left: 4px solid #1b1b1b; border-bottom: 4px solid #1b1b1b"></div>
+      <div id="b1" class="bar" style="left: 60px; height: 260px"></div>
+      <div id="b1v" class="bval mono" style="left: 40px; bottom: 395px">10,000</div>
+      <div class="bcap mono" style="left: 40px">1ST CALL</div>
+      <div id="b3" class="bar" style="left: 330px; height: 572px; background: #c8372d"></div>
+      <div id="b3v" class="bval mono" style="left: 300px; bottom: 712px; color: #c8372d; background: #ece6da">22,000</div>
+      <div class="bcap mono" style="left: 310px">LATER CALL</div>
+    </div>
+    <svg id="gauge" viewBox="0 0 250 250">
+      <circle cx="125" cy="125" r="112" fill="#f8f5ee" stroke="#1b1b1b" stroke-width="8" />
+      <path d="M125 125 L 212 72 A100 100 0 0 1 222 150 Z" fill="#c8372d" opacity="0.85" />
+      <line id="needle" x1="125" y1="125" x2="125" y2="35" stroke="#1b1b1b" stroke-width="9" stroke-linecap="round" />
+      <circle cx="125" cy="125" r="12" fill="#1b1b1b" />
+    </svg>
+    <div id="gauge-label" class="card mono" style="left: 1560px; top: 610px; font-size: 36px; padding: 14px 22px; text-align: center">OVERSPEED<br/>AT 20,000 FT</div>
+
+  </div>
+  <script>
+    const tl = gsap.timeline({ paused: true });
+    function inCard(sel, t, extra) {
+      tl.fromTo(sel, Object.assign({ opacity: 0, y: 30, scale: 0.97, filter: "blur(8px)" }, (extra && extra.from) || {}),
+        Object.assign({ opacity: 1, y: 0, scale: 1, filter: "blur(0px)", duration: 0.8, ease: "expo.out" }, (extra && extra.to) || {}), t);
+    }
+    function draw(sel, t, d, ease) {
+      tl.fromTo(sel, { strokeDasharray: 1, strokeDashoffset: 1 }, { strokeDashoffset: 0, duration: d, ease: ease || "power2.inOut" }, t);
+    }
+    function swipe(sel, t, d) {
+      tl.fromTo(sel, { backgroundSize: "0% 100%" }, { backgroundSize: "100% 100%", duration: d || 0.5, ease: "power2.out" }, t);
+    }
+
+    // A10 jolt + MAYDAY slams
+    tl.fromTo("#mayday", { opacity: 0, scale: 1.6 }, { opacity: 1, scale: 1, duration: 0.16, ease: "power4.in" }, 1.57);
+    tl.fromTo("#root", { x: 14, y: -10 }, { x: 0, y: 0, duration: 0.45, ease: "power3.out", immediateRender: false }, 1.73);
+    tl.fromTo("#jetfront", { opacity: 0 }, { opacity: 1, duration: 0.5 }, 1.99);
+    tl.fromTo("#chart", { opacity: 0 }, { opacity: 1, duration: 0.5 }, 2.42);
+    // A11 bar 1
+    tl.fromTo("#b1", { scaleY: 0 }, { scaleY: 1, duration: 0.9, ease: "power3.out" }, 3.99);
+    tl.fromTo("#b1v", { opacity: 0 }, { opacity: 1, duration: 0.3 }, 4.59);
+    // A12 overspeed: airspeed needle swings into the red
+    tl.fromTo(["#gauge", "#gauge-label"], { opacity: 0, y: 20 }, { opacity: 1, y: 0, duration: 0.5, ease: "power3.out" }, 6.04);
+    tl.fromTo("#needle", { rotation: -40, svgOrigin: "125 125" }, { rotation: 78, svgOrigin: "125 125", duration: 1.0, ease: "power2.inOut" }, 6.24);
+    // A13 bar 3 punches past the top of the chart
+    tl.fromTo("#b3", { scaleY: 0 }, { scaleY: 1, duration: 0.7, ease: "power4.out" }, 8.62);
+    tl.fromTo("#b3v", { opacity: 0 }, { opacity: 1, duration: 0.3 }, 9.12);
+    // A14 60-degree roll + protractor
+    tl.fromTo("#jet-roll", { rotation: 0, svgOrigin: "290 150" }, { rotation: -60, svgOrigin: "290 150", duration: 1.0, ease: "power2.inOut" }, 10.58);
+    draw("#protractor", 10.83, 0.7, "power2.out");
+    tl.fromTo("#bank-label", { opacity: 0 }, { opacity: 1, duration: 0.4 }, 11.14);
+
+    tl.to({}, { duration: 0.01 }, 12.493);
+    window.__timelines["mayday"] = tl;
+  </script>
+</template>

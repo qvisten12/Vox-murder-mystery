@@ -1,0 +1,89 @@
+<template>
+  <style>
+    #root { position: absolute; inset: 0; overflow: hidden; color: #1b1b1b; font-family: "Inter", sans-serif; }
+    .paper {
+      position: absolute; inset: 0; background-color: #ece6da;
+      background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='300' height='300'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='3' seed='4'/><feColorMatrix values='0 0 0 0 0.35  0 0 0 0 0.3  0 0 0 0 0.22  0 0 0 0.16 0'/></filter><rect width='300' height='300' filter='url(%23n)'/></svg>");
+    }
+    .card { position: absolute; background: #f8f5ee; border-radius: 4px; box-shadow: 0 14px 30px rgba(40, 30, 15, 0.18); padding: 28px 36px; }
+    .disp { font-family: "Archivo Black", sans-serif; line-height: 0.95; }
+    .mono { font-family: "JetBrains Mono", monospace; font-weight: 600; }
+    .lbl { font-family: "JetBrains Mono", monospace; font-weight: 600; font-size: 34px; letter-spacing: 0.04em; color: #55504a; }
+    .hl { background: linear-gradient(transparent 12%, #ffd84a 12%, #ffd84a 88%, transparent 88%) no-repeat; background-size: 0% 100%; padding: 0 6px; }
+
+    #ntsb { position: absolute; left: 140px; top: 110px; font-size: 120px; }
+    #ntsb-sub { position: absolute; left: 146px; top: 240px; }
+    #cvr { position: absolute; left: 160px; top: 340px; width: 520px; height: 380px; }
+    #cal { left: 820px; top: 150px; width: 460px; padding: 0; overflow: hidden; }
+    #timeline { position: absolute; left: 1340px; top: 360px; width: 2000px; height: 160px; }
+    #icons { position: absolute; left: 820px; top: 680px; display: flex; gap: 12px; align-items: flex-end; }
+    #black { position: absolute; inset: 0; background: #0d0d0d; z-index: 30; }
+    #credits { position: absolute; left: 0; right: 0; top: 470px; text-align: center; color: #cfc9be; font-size: 30px; line-height: 1.5; z-index: 31; }
+
+  </style>
+  <div id="root" data-composition-id="ntsb" data-width="1920" data-height="1080" data-layout-allow-overflow data-layout-allow-overlap>
+
+    <div class="paper"></div>
+    <div id="ntsb" class="disp">NTSB</div>
+    <div id="ntsb-sub" class="lbl">CASE ERA27MA026</div>
+    <svg id="cvr" viewBox="0 0 520 380">
+      <rect x="60" y="80" width="380" height="240" rx="18" fill="#e8641c" />
+      <rect x="60" y="80" width="380" height="240" rx="18" fill="none" stroke="#1b1b1b" stroke-width="6" />
+      <g stroke="#1b1b1b" stroke-width="10"><line x1="90" y1="120" x2="410" y2="120" /><line x1="90" y1="280" x2="410" y2="280" /></g>
+      <text x="250" y="190" text-anchor="middle" font-family="Archivo Black" font-size="34" fill="#1b1b1b">COCKPIT VOICE</text>
+      <text x="250" y="232" text-anchor="middle" font-family="Archivo Black" font-size="34" fill="#1b1b1b">RECORDER</text>
+      <g id="check"><circle cx="440" cy="90" r="58" fill="#1f8a4c" /><path id="check-path" pathLength="1" d="M412 92 L434 114 L472 70" fill="none" stroke="#fff" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" /></g>
+    </svg>
+    <div id="cal" class="card">
+      <div style="background: #c8372d; color: #fff; text-align: center; padding: 14px 0 8px; font-size: 64px" class="disp"><span id="cal-m1">NOVEMBER</span></div>
+      <div id="cal-m2" style="position: absolute; left: 0; right: 0; top: 0; background: #1b1b1b; color: #fff; text-align: center; padding: 14px 0 8px; font-size: 64px" class="disp">DECEMBER</div>
+      <div class="lbl" style="text-align: center; padding: 26px 0 30px; font-size: 38px; color: #1b1b1b">PRELIMINARY REPORT</div>
+      <svg style="position: absolute; left: 30px; top: -10px; width: 400px; height: 120px; overflow: visible" viewBox="0 0 400 120">
+        <path id="cal-circle" pathLength="1" d="M200 14 C340 10 396 40 390 64 C380 102 260 112 170 108 C60 104 4 90 10 60 C16 30 90 12 230 16" fill="none" stroke="#ffd84a" stroke-width="10" stroke-linecap="round" />
+      </svg>
+    </div>
+    <svg id="timeline" viewBox="0 0 2000 160">
+      <path id="tl-line" pathLength="1" d="M0 80 H2000" stroke="#1b1b1b" stroke-width="8" />
+      <circle cx="0" cy="80" r="16" fill="#1b1b1b" />
+      <text x="0" y="40" font-family="JetBrains Mono" font-weight="600" font-size="32" fill="#55504a">NOW</text>
+      <text id="tl-year" x="300" y="140" font-family="JetBrains Mono" font-weight="600" font-size="34" fill="#1b1b1b">FULL ANSWER: A YEAR OR MORE →</text>
+    </svg>
+    <div id="icons"><svg class="pp" id="n-p1" width="60" height="81" viewBox="0 0 64 86"><circle cx="32" cy="18" r="15" fill="#1b1b1b"/><path d="M6 86 C6 52 18 40 32 40 C46 40 58 52 58 86 Z" fill="#1b1b1b"/></svg><svg class="pp" id="n-p2" width="60" height="81" viewBox="0 0 64 86"><circle cx="32" cy="18" r="15" fill="#1b1b1b"/><path d="M6 86 C6 52 18 40 32 40 C46 40 58 52 58 86 Z" fill="#1b1b1b"/></svg><svg class="pp" id="n-p3" width="60" height="81" viewBox="0 0 64 86"><circle cx="32" cy="18" r="15" fill="#1b1b1b"/><path d="M6 86 C6 52 18 40 32 40 C46 40 58 52 58 86 Z" fill="#1b1b1b"/></svg><svg class="pp" id="n-p4" width="60" height="81" viewBox="0 0 64 86"><circle cx="32" cy="18" r="15" fill="#1b1b1b"/><path d="M6 86 C6 52 18 40 32 40 C46 40 58 52 58 86 Z" fill="#1b1b1b"/></svg><svg class="pp" id="n-p5" width="60" height="81" viewBox="0 0 64 86"><circle cx="32" cy="18" r="15" fill="#1b1b1b"/><path d="M6 86 C6 52 18 40 32 40 C46 40 58 52 58 86 Z" fill="#1b1b1b"/></svg><svg class="pp" id="n-p6" width="60" height="81" viewBox="0 0 64 86"><circle cx="32" cy="18" r="15" fill="#1b1b1b"/><path d="M6 86 C6 52 18 40 32 40 C46 40 58 52 58 86 Z" fill="#1b1b1b"/></svg><svg class="pp" id="n-p7" width="60" height="81" viewBox="0 0 64 86"><circle cx="32" cy="18" r="15" fill="#1b1b1b"/><path d="M6 86 C6 52 18 40 32 40 C46 40 58 52 58 86 Z" fill="#1b1b1b"/></svg><svg class="pp" id="n-p8" width="60" height="81" viewBox="0 0 64 86"><circle cx="32" cy="18" r="15" fill="#2e64a8"/><path d="M6 86 C6 52 18 40 32 40 C46 40 58 52 58 86 Z" fill="#2e64a8"/></svg><svg class="pp" id="n-p9" width="60" height="81" viewBox="0 0 64 86"><circle cx="32" cy="18" r="15" fill="#2e64a8"/><path d="M6 86 C6 52 18 40 32 40 C46 40 58 52 58 86 Z" fill="#2e64a8"/></svg></div>
+    <div id="black"></div>
+    <div id="credits">Sources: NTSB (ERA27MA026), GlobalAir, CBS12/WSET, AIN, AvWeb · reporting as of mid-November 2026<br/>Music: HeyGen · SFX: InspectorJ (Freesound, CC BY) · Voice: Kokoro</div>
+
+  </div>
+  <script>
+    const tl = gsap.timeline({ paused: true });
+    function inCard(sel, t, extra) {
+      tl.fromTo(sel, Object.assign({ opacity: 0, y: 30, scale: 0.97, filter: "blur(8px)" }, (extra && extra.from) || {}),
+        Object.assign({ opacity: 1, y: 0, scale: 1, filter: "blur(0px)", duration: 0.8, ease: "expo.out" }, (extra && extra.to) || {}), t);
+    }
+    function draw(sel, t, d, ease) {
+      tl.fromTo(sel, { strokeDasharray: 1, strokeDashoffset: 1 }, { strokeDashoffset: 0, duration: d, ease: ease || "power2.inOut" }, t);
+    }
+    function swipe(sel, t, d) {
+      tl.fromTo(sel, { backgroundSize: "0% 100%" }, { backgroundSize: "100% 100%", duration: d || 0.5, ease: "power2.out" }, t);
+    }
+
+    inCard(["#ntsb", "#ntsb-sub"], 0.2);
+    // A23 recorder drops in with a check
+    tl.fromTo("#cvr", { y: -260, opacity: 0 }, { y: 0, opacity: 1, duration: 0.8, ease: "power3.out" }, 1.8);
+    tl.fromTo("#check", { opacity: 0, scale: 0.4, transformOrigin: "440px 90px" }, { opacity: 1, scale: 1, duration: 0.4, ease: "back.out(1.8)" }, 4.96);
+    draw("#check-path", 5.11, 0.35, "power2.out");
+    // A24 calendar flips to December and gets circled
+    inCard("#cal", 5.54);
+    tl.fromTo("#cal-m2", { rotationX: -90, transformOrigin: "50% 0%", opacity: 0 }, { rotationX: 0, opacity: 1, duration: 0.7, ease: "power3.out" }, 6.18);
+    draw("#cal-circle", 7.85, 0.7, "power2.out");
+    // A25 a timeline stretches off-screen; the nine return; fade to black
+    draw("#tl-line", 8.78, 2.6, "power2.inOut");
+    tl.fromTo("#tl-year", { opacity: 0 }, { opacity: 1, duration: 0.5 }, 11.91);
+    tl.fromTo("#icons", { opacity: 0 }, { opacity: 1, duration: 1.2, ease: "power1.inOut" }, 11.29);
+    tl.set("#icons .pp path, #icons .pp circle", { fill: "#b7afa2" }, 0);
+    tl.fromTo("#black", { opacity: 0 }, { opacity: 1, duration: 1.8, ease: "power1.inOut" }, 13.66);
+    tl.fromTo("#credits", { opacity: 0 }, { opacity: 1, duration: 0.8 }, 14.86);
+
+    tl.to({}, { duration: 0.01 }, 18.633);
+    window.__timelines["ntsb"] = tl;
+  </script>
+</template>
